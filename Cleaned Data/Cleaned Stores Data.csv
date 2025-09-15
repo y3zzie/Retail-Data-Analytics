@@ -1,0 +1,61 @@
+store_id,store_name,store_type,region,city,operating_cost
+S000,vincent inc store,franchise,west,chicago,62538.56
+S001,wilson inc store,flagship,east,chicago,26957.43
+S002,washington trujillo store,franchise,north,los angeles,66101.63
+S003,santana and sons store,franchise,south,phoenix,71089.4
+S004,oconnor rhodes store,franchise,east,los angeles,40965.26
+S005,mayer scott store,flagship,north,houston,14898.94
+S006,stewart lowe and quinn store,flagship,north,los angeles,75679.22
+S007,marshall plc store,flagship,north,los angeles,51484.15
+S008,mcdaniel bennett store,flagship,south,phoenix,15471.52
+S009,rasmussen meyers and mendoza store,franchise,west,chicago,21491.12
+S010,bennett salazar store,flagship,south,houston,22350.49
+S011,dunlap thornton store,flagship,east,chicago,50349.53
+S012,rodriguez taylor store,franchise,south,chicago,70369.79
+S013,ortiz smith store,mall kiosk,north,chicago,37877.11
+S014,jones harris store,flagship,west,houston,39588.81
+S015,gibson smith and simpson store,franchise,west,los angeles,67372.27
+S016,berg hall store,mall kiosk,north,houston,39917.81
+S017,robinson plc store,flagship,east,phoenix,47603.84
+S018,woods ltd store,franchise,south,chicago,36631.52
+S019,alvarado jackson store,mall kiosk,west,chicago,36260.28
+S020,griffin walker and medina store,franchise,west,new york,33326.39
+S021,wyatt plc store,franchise,west,los angeles,20830.71
+S022,smith johnson and le store,flagship,north,new york,70315.86
+S023,lee jones and galloway store,franchise,east,houston,38318.87
+S024,brown garza and robinson store,mall kiosk,west,chicago,36882.62
+S025,jackson olson store,mall kiosk,north,houston,71949.97
+S026,atkinson salinas store,flagship,west,phoenix,21365.37
+S027,king williams store,mall kiosk,east,chicago,45672.59
+S028,keller ltd store,mall kiosk,east,new york,55563.44
+S029,lester walker and snyder store,mall kiosk,south,los angeles,43440.79
+S030,armstrong anthony and richmond store,mall kiosk,north,los angeles,28293.15
+S031,thomas group store,mall kiosk,south,chicago,27319.04
+S032,martin hernandez store,franchise,south,new york,18171.15
+S033,lee smith store,flagship,west,houston,59424.88
+S034,smith parker store,flagship,south,houston,21607.65
+S035,whitaker llc store,mall kiosk,east,chicago,45045.28
+S036,blankenship brown store,franchise,west,phoenix,31558.52
+S037,johnson hopkins and armstrong store,mall kiosk,north,new york,54532.62
+S038,brown wallace and martin store,mall kiosk,south,chicago,62411.11
+S039,chan buchanan store,franchise,west,chicago,10449.42
+S040,adkins escobar store,flagship,west,new york,16780.95
+S041,campbell brown and flynn store,franchise,west,phoenix,39178.96
+S042,miller douglas store,mall kiosk,west,los angeles,22348.09
+S043,tyler group store,flagship,south,los angeles,44052.99
+S044,martin ltd store,franchise,north,houston,49696.45
+S045,mcguire powers and lang store,flagship,south,los angeles,14128.74
+S046,castillo and sons store,flagship,south,chicago,78806.3
+S047,hudson group store,mall kiosk,west,phoenix,17643.68
+S048,phillips chavez and medina store,franchise,south,new york,30518.79
+S049,aguirre smith and leonard store,mall kiosk,north,chicago,14498.37
+S050,king evans and miller store,flagship,south,houston,43963.6
+S051,anderson norman store,flagship,north,new york,28625.65
+S052,hill inc store,flagship,north,new york,24774.79
+S053,taylor david and williams store,flagship,west,phoenix,46405.19
+S054,johnson inc store,mall kiosk,west,houston,62983.81
+S055,harrington blackburn and soto store,franchise,west,chicago,35954.96
+S056,johnson sims and miles store,mall kiosk,east,los angeles,75869.37
+S057,crawford spencer and lopez store,franchise,west,houston,52756.63
+S058,hubbard thomas store,mall kiosk,east,new york,10215.93
+S059,foster gutierrez and li store,franchise,west,los angeles,11797.63

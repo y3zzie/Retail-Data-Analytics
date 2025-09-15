@@ -1,0 +1,801 @@
+customer_id,first_name,last_name,gender,age,signup_date,region,age_group
+C0000,patrick,morgan,male,18,2024-07-11,south,young adult
+C0001,eric,lee,other,36,2020-09-20,east,adult
+C0002,thomas,pena,female,44,2021-03-07,east,adult
+C0003,dalton,duran,male,24,2021-08-29,south,young adult
+C0004,travis,mcclain,male,50,2023-03-29,south,mid adult
+C0005,brian,kelley,male,68,2024-11-21,north,senior
+C0006,alyssa,sandoval,female,47,2025-02-08,north,mid adult
+C0007,theresa,wright,male,70,2022-12-08,south,senior
+C0008,alyssa,estrada,male,48,2023-08-22,east,mid adult
+C0009,karen,clark,female,62,2023-05-31,east,senior
+C0010,christina,scott,male,70,2021-06-04,west,senior
+C0011,john,franklin,other,51,2020-06-30,east,mid adult
+C0012,jerome,jones,male,63,2020-06-06,east,senior
+C0013,richard,barnes,male,65,2020-06-15,north,senior
+C0014,anna,bennett,male,26,2020-06-28,south,young adult
+C0015,anne,greer,other,32,2020-09-18,east,adult
+C0016,sabrina,carey,male,31,2022-09-21,south,adult
+C0017,crystal,adkins,male,45,2024-07-30,north,adult
+C0018,amanda,riley,male,19,2023-01-21,west,young adult
+C0019,jose,arellano,female,20,2020-05-19,south,young adult
+C0020,michelle,adkins,male,20,2021-04-28,north,young adult
+C0021,courtney,roth,female,25,2022-12-29,east,young adult
+C0022,john,le,male,22,2024-11-27,east,young adult
+C0023,patricia,stephens,other,44,2020-09-30,north,adult
+C0024,amber,higgins,male,56,2023-01-13,south,mid adult
+C0025,sharon,montes,other,30,2022-12-17,south,young adult
+C0026,vincent,henry,other,40,2024-09-15,north,adult
+C0027,ray,ross,male,27,2021-12-17,east,young adult
+C0028,kylie,long,other,40,2023-09-16,east,adult
+C0029,nancy,murphy,male,50,2021-09-14,south,mid adult
+C0030,craig,matthews,other,54,2022-05-06,north,mid adult
+C0031,melanie,patterson,male,70,2023-04-27,north,senior
+C0032,john,frazier,other,31,2021-07-01,south,adult
+C0033,charles,jones,female,28,2024-07-27,north,young adult
+C0034,shawn,hall,other,24,2022-05-20,south,young adult
+C0035,james,small,other,63,2022-01-13,west,senior
+C0036,anthony,williams,female,44,2023-09-18,south,adult
+C0037,john,silva,female,61,2024-05-09,north,senior
+C0038,jamie,hopkins,male,40,2024-09-22,west,adult
+C0039,jonathan,brown,female,31,2021-08-20,south,adult
+C0040,jason,lee,female,25,2021-05-23,east,young adult
+C0041,jonathan,kennedy,male,47,2022-05-16,north,mid adult
+C0042,sherry,torres,other,26,2020-07-19,west,young adult
+C0043,kevin,chavez,female,63,2023-02-13,east,senior
+C0044,bryan,pollard,other,64,2021-12-14,north,senior
+C0045,allison,pratt,male,38,2023-06-23,west,adult
+C0046,edward,green,male,42,2021-07-04,east,adult
+C0047,michael,brewer,female,56,2024-11-12,east,mid adult
+C0048,gregory,ward,other,46,2024-09-06,south,mid adult
+C0049,robert,manning,other,44,2024-07-09,east,adult
+C0050,robert,wilcox,female,30,2022-04-11,north,young adult
+C0051,kathy,porter,female,61,2023-07-14,east,senior
+C0052,megan,peterson,male,18,2025-03-13,west,young adult
+C0053,matthew,watson,other,24,2024-03-26,west,young adult
+C0054,jorge,jenkins,female,51,2020-07-24,north,mid adult
+C0055,carlos,strickland,male,44,2025-01-25,west,adult
+C0056,dawn,guzman,female,62,2022-11-21,north,senior
+C0057,jennifer,medina,other,28,2023-01-20,north,young adult
+C0058,taylor,patterson,female,30,2024-10-07,east,young adult
+C0059,alison,berger,male,56,2020-11-16,west,mid adult
+C0060,todd,boyd,male,32,2022-09-06,west,adult
+C0061,molly,johnson,other,49,2021-12-28,east,mid adult
+C0062,debbie,shaw,other,67,2023-09-25,east,senior
+C0063,barbara,barnes,other,43,2023-11-10,east,adult
+C0064,bryan,jones,female,60,2021-11-12,west,mid adult
+C0065,jessica,lopez,female,50,2024-11-25,east,mid adult
+C0066,daniel,whitaker,male,67,2023-04-30,west,senior
+C0067,william,singleton,male,25,2024-02-25,east,young adult
+C0068,debra,powell,female,49,2022-07-22,south,mid adult
+C0069,kelli,santana,other,26,2021-06-19,north,young adult
+C0070,michelle,mitchell,male,65,2024-08-06,north,senior
+C0071,william,williams,male,49,2024-12-18,north,mid adult
+C0072,michele,walter,male,42,2021-11-05,east,adult
+C0073,virginia,molina,male,37,2023-06-20,north,adult
+C0074,sierra,santiago,male,60,2024-12-19,west,mid adult
+C0075,brian,parker,female,30,2022-11-10,east,young adult
+C0076,craig,martinez,other,49,2024-02-06,west,mid adult
+C0077,donald,mcdonald,other,34,2025-03-15,east,adult
+C0078,christine,thompson,other,52,2021-10-15,north,mid adult
+C0079,james,rodriguez,male,45,2022-11-25,north,adult
+C0080,jill,middleton,female,46,2023-07-27,east,mid adult
+C0081,brian,martin,female,46,2020-05-20,west,mid adult
+C0082,christopher,escobar,male,20,2022-04-11,south,young adult
+C0083,nicole,kelly,other,60,2023-08-19,east,mid adult
+C0084,charles,wallace,other,28,2024-07-26,west,young adult
+C0085,cindy,rios,female,26,2024-01-25,east,young adult
+C0086,isaac,ferrell,other,42,2022-07-09,west,adult
+C0087,david,fleming,male,54,2022-01-30,west,mid adult
+C0088,angelica,brown,other,53,2021-08-23,west,mid adult
+C0089,mary,barton,female,53,2025-02-12,south,mid adult
+C0090,jacob,spencer,other,21,2020-10-25,west,young adult
+C0091,jamie,chen,female,49,2023-05-22,west,mid adult
+C0092,beth,flores,other,61,2022-05-17,east,senior
+C0093,arthur,smith,female,38,2023-10-01,north,adult
+C0094,rebecca,blankenship,male,44,2020-08-13,north,adult
+C0095,miguel,anderson,male,41,2022-08-05,east,adult
+C0096,kathryn,wright,other,55,2020-11-05,north,mid adult
+C0097,christopher,ballard,other,39,2021-06-07,west,adult
+C0098,rachel,king,male,45,2024-04-08,east,adult
+C0099,toni,garcia,female,44,2022-10-30,east,adult
+C0100,courtney,banks,male,60,2024-10-24,south,mid adult
+C0101,harold,anderson,male,33,2024-02-09,east,adult
+C0102,krista,chung,other,23,2024-04-24,north,young adult
+C0103,oscar,carr,female,25,2021-03-12,east,young adult
+C0104,mark,carter,male,19,2021-02-12,east,young adult
+C0105,kim,stone,male,47,2020-08-03,west,mid adult
+C0106,caitlin,castillo,other,50,2020-11-02,west,mid adult
+C0107,rachel,reynolds,female,19,2024-06-09,west,young adult
+C0108,amanda,fitzgerald,other,19,2022-06-06,east,young adult
+C0109,tina,holder,female,54,2023-04-23,west,mid adult
+C0110,natasha,ellison,female,54,2023-11-25,north,mid adult
+C0111,kimberly,curtis,female,24,2024-12-19,south,young adult
+C0112,zachary,sanchez,female,49,2024-03-01,east,mid adult
+C0113,lauren,conley,male,57,2024-06-14,east,mid adult
+C0114,heather,adams,female,45,2023-05-24,south,adult
+C0115,shelby,dougherty,female,58,2020-12-21,north,mid adult
+C0116,candice,ingram,other,31,2024-01-19,east,adult
+C0117,william,williams,female,21,2022-11-01,east,young adult
+C0118,shawn,mccormick,other,43,2020-07-03,south,adult
+C0119,jody,scott,other,65,2024-11-02,north,senior
+C0120,david,chan,other,55,2021-01-17,north,mid adult
+C0121,kayla,burke,other,39,2024-01-02,east,adult
+C0122,brandi,mueller,male,44,2022-10-26,west,adult
+C0123,mary,lee,female,31,2020-11-26,east,adult
+C0124,bobby,higgins,male,59,2021-09-03,east,mid adult
+C0125,ashley,obrien,other,69,2024-12-30,east,senior
+C0126,calvin,reyes,female,60,2021-06-09,east,mid adult
+C0127,andrew,price,male,44,2021-06-10,west,adult
+C0128,martin,wilson,female,57,2020-06-07,west,mid adult
+C0129,james,rodriguez,other,66,2021-09-25,south,senior
+C0130,sarah,cruz,male,58,2023-08-19,south,mid adult
+C0131,kathleen,sutton,other,49,2023-02-02,south,mid adult
+C0132,william,moore,other,70,2024-01-09,west,senior
+C0133,phillip,white,female,58,2023-10-02,west,mid adult
+C0134,elizabeth,brooks,other,64,2023-07-31,north,senior
+C0135,hector,clarke,other,30,2025-04-04,east,young adult
+C0136,thomas,simmons,female,27,2023-03-28,south,young adult
+C0137,willie,gonzalez,male,65,2022-08-20,east,senior
+C0138,april,mann,female,44,2024-03-31,east,adult
+C0139,larry,johnson,male,58,2021-06-28,south,mid adult
+C0140,amanda,hicks,female,35,2021-01-25,east,adult
+C0141,jean,joseph,other,28,2024-12-31,east,young adult
+C0142,william,anthony,other,56,2022-08-01,south,mid adult
+C0143,collin,lutz,female,33,2021-10-13,north,adult
+C0144,alicia,baker,male,30,2020-12-25,north,young adult
+C0145,richard,murphy,male,69,2023-03-25,east,senior
+C0146,karen,becker,female,49,2021-11-12,west,mid adult
+C0147,melissa,suarez,female,59,2024-04-17,north,mid adult
+C0148,philip,castillo,male,28,2021-01-09,east,young adult
+C0149,susan,bailey,male,19,2025-01-30,east,young adult
+C0150,jeremy,jones,female,60,2023-10-20,south,mid adult
+C0151,christopher,brown,other,20,2021-04-30,west,young adult
+C0152,david,huerta,male,21,2024-12-31,north,young adult
+C0153,teresa,cochran,female,56,2022-08-30,east,mid adult
+C0154,joshua,rice,male,44,2020-04-15,east,adult
+C0155,jennifer,clark,other,60,2022-01-02,north,mid adult
+C0156,zachary,johnson,female,44,2020-04-21,south,adult
+C0157,jeremy,snyder,male,25,2024-09-05,north,young adult
+C0158,charles,mcdonald,other,60,2024-01-23,east,mid adult
+C0159,chad,chen,female,23,2021-11-01,south,young adult
+C0160,perry,rice,other,25,2020-07-26,east,young adult
+C0161,max,jenkins,female,55,2023-09-24,west,mid adult
+C0162,barbara,young,other,65,2024-01-23,south,senior
+C0163,shannon,garner,female,31,2022-02-04,south,adult
+C0164,debra,dorsey,male,29,2024-01-18,south,young adult
+C0165,jerry,alexander,female,46,2023-07-16,west,mid adult
+C0166,christopher,herrera,female,55,2020-08-12,north,mid adult
+C0167,matthew,anthony,female,52,2021-08-29,east,mid adult
+C0168,gabriel,jenkins,other,25,2022-11-19,east,young adult
+C0169,billy,watts,other,45,2021-12-07,west,adult
+C0170,lisa,brown,other,33,2021-06-26,east,adult
+C0171,doris,collins,male,41,2024-01-03,west,adult
+C0172,ashley,phillips,other,41,2024-03-26,east,adult
+C0173,nicole,black,male,59,2023-08-13,north,mid adult
+C0174,james,french,other,60,2024-11-19,north,mid adult
+C0175,ryan,charles,other,68,2021-04-25,south,senior
+C0176,bradley,galvan,female,53,2024-02-23,west,mid adult
+C0177,toni,frye,female,58,2022-01-09,east,mid adult
+C0178,adam,mueller,other,25,2024-06-08,south,young adult
+C0179,carol,lara,female,42,2021-10-03,north,adult
+C0180,tammy,brewer,female,34,2022-08-30,east,adult
+C0181,nancy,hickman,male,70,2024-05-25,south,senior
+C0182,thomas,blake,female,31,2020-08-08,south,adult
+C0183,carl,villanueva,female,58,2022-07-18,east,mid adult
+C0184,deanna,flynn,other,44,2023-10-04,north,adult
+C0185,richard,morris,female,23,2023-10-24,west,young adult
+C0186,rebecca,peterson,female,65,2021-07-14,west,senior
+C0187,sean,macdonald,female,63,2022-06-06,west,senior
+C0188,brandi,torres,male,70,2023-03-12,south,senior
+C0189,lauren,liu,other,34,2024-09-18,north,adult
+C0190,linda,humphrey,female,44,2024-05-25,east,adult
+C0191,jerry,hardy,female,62,2022-10-21,north,senior
+C0192,reginald,williams,male,59,2024-04-29,south,mid adult
+C0193,shelby,henry,other,44,2020-10-06,south,adult
+C0194,nancy,ward,male,43,2021-04-12,south,adult
+C0195,william,taylor,other,37,2021-02-05,east,adult
+C0196,holly,martinez,other,23,2022-04-07,north,young adult
+C0197,tara,byrd,male,33,2022-08-13,south,adult
+C0198,kelly,coleman,other,61,2020-06-01,west,senior
+C0199,michele,ellis,female,46,2022-07-20,west,mid adult
+C0200,anthony,davis,other,26,2020-09-01,east,young adult
+C0201,daniel,wheeler,male,61,2024-01-05,east,senior
+C0202,katherine,lamb,female,30,2023-12-12,north,young adult
+C0203,levi,bradford,female,41,2024-01-24,south,adult
+C0204,lance,james,female,42,2022-07-19,south,adult
+C0205,emily,jackson,male,19,2023-06-27,south,young adult
+C0206,jason,peters,male,47,2023-12-03,south,mid adult
+C0207,brian,reyes,female,62,2020-11-13,south,senior
+C0208,samantha,robinson,male,43,2024-11-23,west,adult
+C0209,kathy,winters,other,34,2021-02-12,south,adult
+C0210,kyle,dodson,male,41,2023-09-19,south,adult
+C0211,kristin,cook,other,25,2022-11-18,north,young adult
+C0212,tyler,hale,other,51,2021-08-28,west,mid adult
+C0213,kimberly,barton,female,70,2024-06-28,west,senior
+C0214,michelle,miller,male,32,2020-11-20,south,adult
+C0215,zachary,fitzgerald,male,70,2021-01-21,east,senior
+C0216,alexis,garcia,female,65,2024-05-06,west,senior
+C0217,kim,vasquez,female,26,2022-05-31,west,young adult
+C0218,jared,turner,male,56,2023-04-25,south,mid adult
+C0219,justin,young,female,64,2024-12-11,south,senior
+C0220,helen,brown,female,29,2023-08-22,west,young adult
+C0221,janice,moore,male,19,2023-12-16,east,young adult
+C0222,melanie,morales,female,33,2023-07-05,west,adult
+C0223,edward,mueller,male,41,2021-12-25,west,adult
+C0224,laura,james,male,18,2021-02-04,west,young adult
+C0225,lisa,gray,male,38,2023-09-10,west,adult
+C0226,robert,sherman,other,31,2024-09-09,west,adult
+C0227,megan,lopez,other,45,2022-12-30,east,adult
+C0228,jennifer,rogers,male,24,2021-10-21,north,young adult
+C0229,jorge,phillips,male,39,2025-03-01,south,adult
+C0230,mark,lewis,female,40,2024-08-10,north,adult
+C0231,richard,smith,male,34,2020-07-24,west,adult
+C0232,ronald,howard,female,43,2024-08-03,east,adult
+C0233,joseph,johnson,male,53,2022-05-20,north,mid adult
+C0234,ralph,reid,other,29,2021-10-17,east,young adult
+C0235,george,williams,male,50,2022-04-10,west,mid adult
+C0236,allison,black,female,47,2023-02-24,south,mid adult
+C0237,dennis,dixon,male,38,2025-02-09,west,adult
+C0238,joseph,mathis,male,34,2020-11-05,north,adult
+C0239,laura,mccann,female,20,2022-06-11,south,young adult
+C0240,shane,aguirre,female,35,2024-09-16,east,adult
+C0241,frederick,fischer,female,36,2022-11-30,east,adult
+C0242,david,wilson,other,66,2023-02-20,east,senior
+C0243,kathy,hughes,other,44,2021-02-22,west,adult
+C0244,scott,moore,male,38,2022-03-14,west,adult
+C0245,steve,hensley,male,53,2020-06-11,west,mid adult
+C0246,catherine,williams,male,30,2021-01-02,south,young adult
+C0247,karl,watts,male,32,2021-09-27,south,adult
+C0248,madeline,maddox,male,48,2022-09-16,east,mid adult
+C0249,ricky,phillips,male,63,2022-07-07,west,senior
+C0250,wayne,jones,female,25,2021-11-20,west,young adult
+C0251,jeffrey,ferguson,male,46,2023-12-03,east,mid adult
+C0252,joshua,morrow,other,53,2022-02-28,west,mid adult
+C0253,karina,white,female,49,2023-02-10,north,mid adult
+C0254,matthew,wright,other,27,2020-07-25,north,young adult
+C0255,james,hall,female,23,2024-06-06,south,young adult
+C0256,john,jones,female,29,2021-10-19,south,young adult
+C0257,philip,ramirez,other,50,2024-02-25,east,mid adult
+C0258,melinda,fitzgerald,other,60,2021-05-21,south,mid adult
+C0259,sandra,weeks,other,18,2023-08-17,south,young adult
+C0260,mikayla,foster,female,22,2022-04-20,south,young adult
+C0261,nathan,gonzalez,female,61,2023-10-29,north,senior
+C0262,john,combs,female,19,2024-07-30,east,young adult
+C0263,katherine,bryant,other,44,2023-01-22,north,adult
+C0264,charles,king,female,41,2022-02-04,north,adult
+C0265,francisco,kerr,female,27,2020-09-22,north,young adult
+C0266,andrew,scott,male,47,2020-12-07,west,mid adult
+C0267,timothy,carroll,female,58,2023-07-05,east,mid adult
+C0268,john,gonzales,other,60,2024-12-26,north,mid adult
+C0269,debbie,nguyen,female,20,2022-09-19,west,young adult
+C0270,john,lawson,female,44,2024-09-01,south,adult
+C0271,christine,moore,male,21,2020-04-28,east,young adult
+C0272,sharon,vasquez,female,69,2024-04-17,north,senior
+C0273,connie,stark,other,44,2024-11-18,west,adult
+C0274,nancy,ray,male,43,2023-03-26,east,adult
+C0275,evan,ryan,male,33,2023-08-15,west,adult
+C0276,rachael,mason,male,19,2020-05-21,south,young adult
+C0277,andrew,martin,male,42,2023-03-23,west,adult
+C0278,mary,ferguson,female,59,2021-09-21,south,mid adult
+C0279,phillip,morse,male,37,2021-09-17,west,adult
+C0280,adam,randall,female,65,2022-10-26,east,senior
+C0281,april,krause,other,56,2023-01-16,south,mid adult
+C0282,stephen,vasquez,female,60,2022-05-03,north,mid adult
+C0283,jennifer,ramirez,female,50,2023-03-21,south,mid adult
+C0284,stephen,roberts,female,44,2023-02-05,west,adult
+C0285,kayla,thompson,female,35,2021-07-10,west,adult
+C0286,kara,stevens,male,66,2024-06-19,west,senior
+C0287,tiffany,washington,female,57,2024-07-23,south,mid adult
+C0288,gregory,pitts,female,58,2021-07-28,west,mid adult
+C0289,kevin,obrien,male,44,2021-10-14,east,adult
+C0290,amy,lee,female,61,2023-09-10,south,senior
+C0291,charlotte,may,other,61,2023-02-25,south,senior
+C0292,sara,bowman,female,51,2022-01-15,north,mid adult
+C0293,willie,mills,female,47,2023-01-24,west,mid adult
+C0294,devin,tapia,male,69,2025-03-10,west,senior
+C0295,arthur,perez,female,27,2023-09-14,south,young adult
+C0296,catherine,martin,other,37,2024-09-07,south,adult
+C0297,lynn,baker,other,45,2024-02-26,east,adult
+C0298,martin,murphy,other,21,2021-05-01,north,young adult
+C0299,joanna,knight,male,50,2020-09-17,north,mid adult
+C0300,jorge,gutierrez,other,45,2021-08-29,west,adult
+C0301,angela,johnson,male,47,2023-04-03,east,mid adult
+C0302,deborah,nunez,female,34,2021-07-02,north,adult
+C0303,michelle,sawyer,other,19,2020-09-25,north,young adult
+C0304,paul,dudley,other,60,2024-04-01,west,mid adult
+C0305,emily,crawford,male,68,2023-09-04,south,senior
+C0306,nicole,rivera,female,20,2023-05-05,north,young adult
+C0307,tammy,smith,female,63,2024-05-26,east,senior
+C0308,sherri,brown,female,55,2022-07-09,west,mid adult
+C0309,susan,ramirez,other,46,2021-04-27,east,mid adult
+C0310,david,allen,female,44,2021-12-12,south,adult
+C0311,brenda,stevenson,male,29,2020-08-27,north,young adult
+C0312,tyler,kim,other,56,2020-11-28,east,mid adult
+C0313,susan,mitchell,other,24,2021-06-16,west,young adult
+C0314,andrea,anderson,other,19,2023-07-20,north,young adult
+C0315,eileen,wilson,female,25,2024-02-28,north,young adult
+C0316,kenneth,clark,male,59,2022-07-14,west,mid adult
+C0317,gregory,johnson,female,62,2021-11-09,west,senior
+C0318,joshua,romero,other,65,2024-03-01,west,senior
+C0319,glenn,simon,female,57,2020-12-06,east,mid adult
+C0320,anne,martinez,other,61,2022-03-04,west,senior
+C0321,jerry,hawkins,female,23,2020-10-21,south,young adult
+C0322,christina,burgess,male,18,2021-10-19,south,young adult
+C0323,kelly,jarvis,male,70,2020-09-01,north,senior
+C0324,timothy,newman,other,44,2024-11-08,north,adult
+C0325,ariana,knight,male,48,2024-08-16,south,mid adult
+C0326,shaun,mack,other,33,2020-04-29,west,adult
+C0327,stephanie,brooks,other,68,2023-06-17,south,senior
+C0328,brandy,lewis,male,37,2022-06-24,west,adult
+C0329,melissa,robles,male,48,2023-08-18,west,mid adult
+C0330,andrea,sampson,male,25,2021-02-07,south,young adult
+C0331,darryl,woodard,male,65,2025-02-05,west,senior
+C0332,steven,gould,female,48,2022-10-09,north,mid adult
+C0333,laura,morris,female,55,2024-05-23,south,mid adult
+C0334,karen,williams,male,44,2022-01-30,west,adult
+C0335,joshua,lester,male,39,2022-12-15,north,adult
+C0336,wesley,riley,male,58,2020-12-11,west,mid adult
+C0337,kristen,rich,female,49,2024-02-07,east,mid adult
+C0338,james,james,male,49,2020-11-05,west,mid adult
+C0339,lori,cruz,female,50,2023-05-06,west,mid adult
+C0340,kelly,townsend,male,63,2022-09-02,north,senior
+C0341,eric,wilson,other,19,2023-04-12,west,young adult
+C0342,kurt,shannon,other,38,2020-04-21,north,adult
+C0343,maria,berry,female,59,2021-08-09,west,mid adult
+C0344,david,ramirez,female,25,2022-05-24,west,young adult
+C0345,isaac,booth,other,59,2022-09-02,east,mid adult
+C0346,jessica,bradley,female,62,2023-02-07,west,senior
+C0347,rita,porter,male,44,2023-06-10,east,adult
+C0348,jason,higgins,other,30,2023-04-03,west,young adult
+C0349,nicholas,pruitt,female,46,2021-01-17,south,mid adult
+C0350,peter,sutton,other,32,2020-04-24,east,adult
+C0351,ashley,taylor,other,63,2020-06-27,west,senior
+C0352,renee,weaver,male,36,2023-03-26,west,adult
+C0353,alyssa,ruiz,female,61,2021-01-08,east,senior
+C0354,ariel,hale,female,69,2020-11-18,south,senior
+C0355,zachary,woods,other,31,2022-05-10,east,adult
+C0356,ryan,hernandez,other,65,2021-01-25,north,senior
+C0357,john,white,other,48,2023-12-25,south,mid adult
+C0358,karen,jackson,male,30,2022-06-03,south,young adult
+C0359,sierra,dennis,other,49,2023-04-28,north,mid adult
+C0360,shannon,campbell,female,49,2020-08-14,east,mid adult
+C0361,lisa,howell,male,31,2020-09-06,north,adult
+C0362,traci,nichols,male,40,2022-02-04,east,adult
+C0363,katherine,walker,female,61,2024-07-31,south,senior
+C0364,amy,woods,male,70,2021-11-29,north,senior
+C0365,zachary,miller,male,39,2024-01-23,west,adult
+C0366,christopher,guerrero,male,57,2023-05-17,south,mid adult
+C0367,jeffrey,patterson,male,53,2024-03-21,south,mid adult
+C0368,natalie,riley,female,44,2021-11-22,east,adult
+C0369,sean,bryant,female,67,2024-11-03,north,senior
+C0370,amber,bentley,other,35,2024-09-28,south,adult
+C0371,angela,davis,other,50,2024-04-30,north,mid adult
+C0372,madison,smith,other,21,2025-01-27,west,young adult
+C0373,melissa,cole,female,66,2020-10-10,north,senior
+C0374,david,nunez,male,68,2023-07-07,north,senior
+C0375,leon,bell,other,20,2025-03-16,north,young adult
+C0376,william,jones,male,58,2024-03-13,north,mid adult
+C0377,cassandra,sharp,male,41,2020-08-22,south,adult
+C0378,christopher,flores,other,36,2022-08-29,west,adult
+C0379,jesse,anderson,other,44,2023-05-12,north,adult
+C0380,donald,vang,male,59,2022-03-06,east,mid adult
+C0381,stephanie,scott,female,70,2022-08-23,south,senior
+C0382,joshua,johnson,male,30,2025-01-14,west,young adult
+C0383,jonathan,conley,female,67,2023-09-22,north,senior
+C0384,heather,bradley,male,69,2025-01-03,west,senior
+C0385,terri,simpson,female,36,2023-12-19,south,adult
+C0386,terry,davis,male,35,2023-03-12,east,adult
+C0387,darren,brown,other,66,2023-09-09,west,senior
+C0388,matthew,miller,female,58,2020-11-14,south,mid adult
+C0389,crystal,burgess,male,66,2024-11-22,west,senior
+C0390,rachel,cordova,male,26,2021-08-22,west,young adult
+C0391,doris,brown,female,44,2023-06-11,west,adult
+C0392,christopher,alvarez,other,68,2022-10-11,east,senior
+C0393,brandon,cooper,male,46,2020-11-16,south,mid adult
+C0394,sarah,larson,male,63,2021-01-02,north,senior
+C0395,theresa,wang,male,39,2024-12-17,east,adult
+C0396,laura,smith,female,67,2025-03-10,south,senior
+C0397,raymond,taylor,female,21,2023-04-19,west,young adult
+C0398,paul,pace,male,60,2023-10-22,south,mid adult
+C0399,christopher,kennedy,other,21,2020-12-06,east,young adult
+C0400,jeremy,fuller,female,43,2021-05-10,east,adult
+C0401,lance,ferguson,other,65,2021-02-14,east,senior
+C0402,bianca,hicks,female,18,2024-10-07,east,young adult
+C0403,gary,hall,other,57,2023-04-27,south,mid adult
+C0404,juan,sanchez,other,43,2020-09-26,west,adult
+C0405,sarah,sharp,other,31,2024-04-07,west,adult
+C0406,heather,allen,other,40,2022-11-06,west,adult
+C0407,megan,stevens,male,37,2021-07-02,north,adult
+C0408,kristin,roman,male,52,2024-12-04,east,mid adult
+C0409,bryan,brown,female,64,2022-06-11,south,senior
+C0410,brandy,morgan,other,52,2020-04-11,east,mid adult
+C0411,antonio,luna,male,23,2024-07-31,east,young adult
+C0412,erik,chen,other,39,2022-01-06,south,adult
+C0413,eddie,shea,male,19,2021-01-03,east,young adult
+C0414,stacy,anderson,male,67,2023-04-22,east,senior
+C0415,kaitlyn,daniels,other,45,2024-05-01,north,adult
+C0416,erin,ortega,other,21,2022-03-12,east,young adult
+C0417,donna,adams,female,58,2022-09-22,east,mid adult
+C0418,jeffrey,roberts,male,21,2024-01-15,north,young adult
+C0419,tracy,shelton,female,37,2024-06-17,north,adult
+C0420,daniel,farmer,female,39,2023-09-18,south,adult
+C0421,william,patterson,other,55,2022-08-06,south,mid adult
+C0422,cathy,horn,female,37,2023-07-27,east,adult
+C0423,robert,hayes,other,68,2025-04-07,south,senior
+C0424,christine,mendoza,other,42,2024-06-24,south,adult
+C0425,laura,mclean,male,38,2020-11-22,south,adult
+C0426,amy,shaw,female,47,2024-08-16,north,mid adult
+C0427,jason,foster,male,63,2022-11-21,west,senior
+C0428,kristin,brown,female,23,2023-12-21,north,young adult
+C0429,tracy,hall,male,44,2021-06-02,south,adult
+C0430,mandy,rice,female,31,2021-05-24,west,adult
+C0431,walter,duarte,male,41,2022-11-19,west,adult
+C0432,martha,robles,other,44,2024-02-27,west,adult
+C0433,james,george,female,55,2024-04-10,west,mid adult
+C0434,shane,ryan,other,45,2024-08-24,west,adult
+C0435,samuel,jones,other,49,2024-05-27,west,mid adult
+C0436,bradley,hubbard,male,27,2024-02-03,south,young adult
+C0437,karen,johnson,female,63,2022-08-03,west,senior
+C0438,amy,barrett,male,63,2021-08-11,north,senior
+C0439,jennifer,mcdonald,other,31,2021-07-07,west,adult
+C0440,ann,powers,female,44,2023-02-04,south,adult
+C0441,kimberly,hughes,other,41,2022-08-22,north,adult
+C0442,donna,romero,other,44,2021-10-10,north,adult
+C0443,cassandra,thompson,male,41,2020-05-15,east,adult
+C0444,margaret,price,male,51,2020-05-25,south,mid adult
+C0445,john,guerrero,male,41,2024-01-18,east,adult
+C0446,charles,garcia,female,37,2023-04-19,east,adult
+C0447,anna,roberts,female,19,2023-06-17,south,young adult
+C0448,roy,ramirez,male,68,2023-08-16,west,senior
+C0449,jessica,white,male,37,2021-12-14,east,adult
+C0450,anthony,montoya,male,29,2024-07-25,west,young adult
+C0451,david,chandler,male,25,2022-07-05,east,young adult
+C0452,jennifer,mcdonald,male,20,2025-02-19,west,young adult
+C0453,gary,roberts,female,44,2020-06-15,east,adult
+C0454,gregory,rivas,other,46,2022-09-19,east,mid adult
+C0455,jorge,jackson,female,48,2023-07-28,south,mid adult
+C0456,anthony,huff,male,44,2023-04-12,west,adult
+C0457,jimmy,donaldson,female,60,2023-03-03,west,mid adult
+C0458,tonya,meadows,male,64,2021-11-27,east,senior
+C0459,john,wagner,male,44,2024-08-22,west,adult
+C0460,dennis,ramirez,female,32,2025-03-27,west,adult
+C0461,janet,sanchez,female,52,2022-01-22,north,mid adult
+C0462,kelly,spencer,other,46,2024-08-17,east,mid adult
+C0463,alan,osborn,other,23,2020-09-15,south,young adult
+C0464,heather,smith,other,19,2023-08-10,east,young adult
+C0465,nicole,garcia,other,59,2021-11-30,north,mid adult
+C0466,randy,le,other,53,2025-01-23,north,mid adult
+C0467,timothy,combs,male,57,2021-05-02,north,mid adult
+C0468,kimberly,robertson,other,51,2023-01-09,south,mid adult
+C0469,mary,dalton,female,50,2024-07-03,north,mid adult
+C0470,charles,gonzalez,male,60,2023-07-29,south,mid adult
+C0471,deanna,pitts,male,35,2023-06-04,south,adult
+C0472,justin,howard,male,63,2022-11-24,west,senior
+C0473,kathleen,montoya,male,69,2022-11-09,east,senior
+C0474,jennifer,allen,female,55,2025-01-10,north,mid adult
+C0475,joshua,johnson,female,19,2020-09-28,east,young adult
+C0476,john,le,female,29,2022-11-23,west,young adult
+C0477,mary,martinez,male,51,2023-05-27,east,mid adult
+C0478,james,johnson,female,34,2020-07-19,north,adult
+C0479,mary,farmer,male,24,2021-08-18,south,young adult
+C0480,matthew,moore,female,27,2020-05-23,south,young adult
+C0481,keith,hayes,female,67,2022-11-17,north,senior
+C0482,jennifer,ramsey,male,37,2024-12-09,west,adult
+C0483,alan,webb,other,28,2022-04-10,north,young adult
+C0484,deanna,hall,other,38,2022-06-14,south,adult
+C0485,david,krause,male,63,2023-07-26,north,senior
+C0486,joseph,leon,female,42,2023-10-04,north,adult
+C0487,danny,camacho,female,27,2021-02-14,west,young adult
+C0488,brent,dickson,female,34,2024-12-06,west,adult
+C0489,paula,washington,male,44,2020-09-02,south,adult
+C0490,joseph,wright,male,66,2022-06-15,south,senior
+C0491,samuel,conley,female,50,2023-08-21,west,mid adult
+C0492,scott,parrish,male,35,2023-08-20,north,adult
+C0493,kimberly,brown,female,47,2022-08-24,west,mid adult
+C0494,jessica,cox,male,48,2021-03-17,north,mid adult
+C0495,victoria,smith,female,58,2024-10-30,south,mid adult
+C0496,carrie,ruiz,male,35,2024-12-21,north,adult
+C0497,holly,deleon,male,66,2024-08-04,south,senior
+C0498,alexis,martinez,female,54,2022-11-12,west,mid adult
+C0499,kristina,manning,female,23,2021-04-09,south,young adult
+C0500,heather,martinez,male,41,2022-07-02,south,adult
+C0501,sarah,caldwell,male,52,2020-09-10,west,mid adult
+C0502,karina,thompson,other,46,2021-02-14,north,mid adult
+C0503,pamela,johnson,male,70,2024-08-03,west,senior
+C0504,melanie,monroe,other,36,2021-09-13,south,adult
+C0505,jonathan,chung,male,21,2023-07-28,west,young adult
+C0506,michael,reese,female,56,2020-05-14,east,mid adult
+C0507,kyle,beck,other,42,2021-05-31,east,adult
+C0508,joshua,boyer,other,31,2025-04-09,east,adult
+C0509,dean,taylor,male,28,2021-12-30,north,young adult
+C0510,sergio,garrett,female,23,2022-01-19,west,young adult
+C0511,robert,chung,other,25,2024-11-14,south,young adult
+C0512,brian,casey,other,53,2021-03-08,east,mid adult
+C0513,olivia,jones,female,31,2020-06-27,east,adult
+C0514,joann,gibson,other,39,2025-01-25,east,adult
+C0515,elizabeth,alvarez,other,46,2023-07-22,east,mid adult
+C0516,nicholas,kramer,male,60,2024-01-30,east,mid adult
+C0517,jonathan,wilson,female,31,2022-04-06,west,adult
+C0518,nicholas,fischer,other,39,2024-09-24,north,adult
+C0519,renee,fletcher,other,26,2021-08-28,north,young adult
+C0520,michael,lee,other,48,2021-06-25,north,mid adult
+C0521,kyle,smith,male,61,2024-02-28,south,senior
+C0522,cathy,turner,female,53,2022-08-06,west,mid adult
+C0523,jessica,villanueva,female,52,2024-10-10,north,mid adult
+C0524,diana,jones,other,59,2020-07-05,north,mid adult
+C0525,lee,booker,other,19,2020-08-14,west,young adult
+C0526,michael,brown,other,25,2021-08-09,east,young adult
+C0527,ian,carter,female,44,2024-10-05,east,adult
+C0528,mary,jacobson,female,29,2020-12-09,north,young adult
+C0529,veronica,brooks,male,47,2023-03-03,east,mid adult
+C0530,jasmine,smith,male,46,2024-03-12,north,mid adult
+C0531,samantha,peters,male,65,2024-10-10,north,senior
+C0532,zachary,bailey,female,61,2022-06-14,east,senior
+C0533,tyler,martinez,male,23,2024-09-13,east,young adult
+C0534,shawn,welch,other,32,2024-01-20,south,adult
+C0535,derrick,lopez,female,41,2023-10-21,north,adult
+C0536,roy,sanders,female,49,2023-11-11,south,mid adult
+C0537,daniel,garrison,male,30,2020-07-21,west,young adult
+C0538,christopher,miller,male,35,2022-01-01,west,adult
+C0539,sherry,williams,male,53,2022-11-08,south,mid adult
+C0540,jessica,joseph,other,65,2023-05-31,south,senior
+C0541,janice,butler,male,55,2022-11-15,south,mid adult
+C0542,julie,simon,other,22,2022-08-13,south,young adult
+C0543,dylan,russell,female,54,2023-09-21,south,mid adult
+C0544,adrian,warner,other,64,2020-05-13,east,senior
+C0545,stephen,jones,male,61,2022-03-02,north,senior
+C0546,paul,thompson,other,61,2023-02-25,east,senior
+C0547,jay,johnson,other,53,2024-08-17,west,mid adult
+C0548,bryce,simmons,male,45,2020-06-09,north,adult
+C0549,mark,porter,female,45,2023-11-04,west,adult
+C0550,kelly,chaney,female,25,2023-03-30,west,young adult
+C0551,yvonne,griffith,female,41,2024-04-13,north,adult
+C0552,tracy,gonzalez,other,32,2020-10-04,north,adult
+C0553,laura,rodriguez,female,44,2023-10-31,west,adult
+C0554,tiffany,knapp,female,18,2024-10-10,west,young adult
+C0555,tony,sosa,male,39,2020-07-22,north,adult
+C0556,summer,price,other,69,2023-09-06,north,senior
+C0557,juan,cantu,other,32,2021-04-14,west,adult
+C0558,lindsey,gutierrez,male,33,2024-08-11,south,adult
+C0559,caroline,castro,male,39,2024-05-15,east,adult
+C0560,anthony,phillips,male,58,2022-01-10,north,mid adult
+C0561,alicia,howe,male,48,2021-01-08,west,mid adult
+C0562,john,mckenzie,male,55,2023-06-20,east,mid adult
+C0563,amanda,sampson,female,33,2020-12-16,north,adult
+C0564,jessica,miller,female,33,2022-10-16,east,adult
+C0565,emily,foster,male,70,2024-09-08,east,senior
+C0566,johnny,chapman,other,68,2025-03-16,south,senior
+C0567,nicole,george,male,67,2021-03-22,west,senior
+C0568,nathan,garcia,male,58,2023-07-06,west,mid adult
+C0569,timothy,schultz,other,25,2023-12-29,north,young adult
+C0570,amy,hess,male,44,2024-04-30,west,adult
+C0571,jessica,ayers,female,62,2021-11-22,north,senior
+C0572,abigail,adams,male,21,2020-04-20,west,young adult
+C0573,mary,arnold,male,37,2022-01-07,west,adult
+C0574,anthony,webb,male,24,2022-06-25,north,young adult
+C0575,paul,hall,other,21,2025-02-10,east,young adult
+C0576,karen,hernandez,female,43,2020-04-27,north,adult
+C0577,nancy,buckley,other,66,2022-05-30,west,senior
+C0578,nathan,snyder,male,56,2024-02-18,north,mid adult
+C0579,dana,ho,female,42,2023-07-24,west,adult
+C0580,luke,arnold,female,57,2020-08-26,north,mid adult
+C0581,perry,hebert,female,59,2024-05-17,north,mid adult
+C0582,william,walters,female,51,2023-06-04,east,mid adult
+C0583,john,santana,other,30,2021-04-15,north,young adult
+C0584,timothy,levine,male,18,2021-01-21,north,young adult
+C0585,tony,parker,other,68,2023-04-25,south,senior
+C0586,brandon,macdonald,other,26,2021-08-30,east,young adult
+C0587,ryan,mullen,female,44,2021-01-07,west,adult
+C0588,david,johnson,other,44,2021-02-24,west,adult
+C0589,jose,peterson,male,33,2020-12-25,south,adult
+C0590,patricia,garcia,male,21,2020-07-14,south,young adult
+C0591,tina,frank,female,55,2020-04-11,west,mid adult
+C0592,austin,adams,other,59,2022-09-16,east,mid adult
+C0593,andrew,cook,female,55,2021-08-24,south,mid adult
+C0594,ryan,castro,male,44,2021-06-23,east,adult
+C0595,joshua,shah,other,39,2025-03-14,east,adult
+C0596,david,carr,female,18,2022-08-22,south,young adult
+C0597,ariel,sanchez,male,33,2024-06-22,north,adult
+C0598,morgan,wagner,female,40,2023-04-11,south,adult
+C0599,daniel,estes,male,58,2022-12-24,south,mid adult
+C0600,timothy,cunningham,male,39,2021-04-24,south,adult
+C0601,melissa,jefferson,other,48,2020-07-02,west,mid adult
+C0602,julie,rodriguez,other,62,2023-11-19,east,senior
+C0603,michelle,simpson,other,54,2020-08-07,east,mid adult
+C0604,juan,allison,other,37,2020-04-23,west,adult
+C0605,james,mason,female,28,2022-09-15,north,young adult
+C0606,paul,dawson,female,68,2025-02-28,north,senior
+C0607,patrick,fox,female,32,2025-04-04,north,adult
+C0608,timothy,page,other,44,2024-10-26,south,adult
+C0609,david,sanford,female,57,2023-12-24,south,mid adult
+C0610,evelyn,campbell,male,48,2024-04-01,east,mid adult
+C0611,daniel,nelson,other,44,2020-05-20,south,adult
+C0612,alexandra,bennett,female,29,2024-02-20,north,young adult
+C0613,rachael,curtis,female,18,2024-03-13,north,young adult
+C0614,heather,barrera,female,19,2020-08-13,north,young adult
+C0615,nicole,simmons,male,36,2023-04-19,west,adult
+C0616,linda,hamilton,male,58,2022-11-16,east,mid adult
+C0617,bradley,cox,male,19,2022-10-03,south,young adult
+C0618,jade,blackwell,male,36,2020-11-13,south,adult
+C0619,wendy,campbell,male,44,2023-11-06,south,adult
+C0620,keith,moore,female,53,2022-09-14,south,mid adult
+C0621,anita,richardson,male,30,2023-08-26,north,young adult
+C0622,dylan,rangel,male,34,2022-11-21,north,adult
+C0623,norma,lopez,male,61,2023-09-04,south,senior
+C0624,alexandra,hutchinson,female,59,2020-12-18,north,mid adult
+C0625,scott,thomas,female,31,2024-02-26,east,adult
+C0626,samuel,turner,female,44,2022-11-22,east,adult
+C0627,john,hamilton,female,60,2021-05-23,south,mid adult
+C0628,michael,morrison,other,69,2024-11-09,west,senior
+C0629,natasha,anderson,other,22,2022-02-18,north,young adult
+C0630,james,fischer,male,26,2022-12-25,south,young adult
+C0631,kimberly,woods,male,52,2020-10-26,west,mid adult
+C0632,lisa,larsen,other,41,2022-01-05,east,adult
+C0633,sherry,gilbert,other,45,2021-04-16,south,adult
+C0634,denise,chandler,male,66,2024-03-05,south,senior
+C0635,dylan,mitchell,other,36,2023-03-13,south,adult
+C0636,richard,watson,female,33,2020-11-18,north,adult
+C0637,janet,underwood,other,68,2022-07-16,east,senior
+C0638,sean,sanchez,male,50,2023-01-19,west,mid adult
+C0639,jasmine,george,male,64,2023-01-10,north,senior
+C0640,melissa,brown,female,68,2024-07-27,north,senior
+C0641,danielle,mack,male,50,2021-05-05,west,mid adult
+C0642,heather,ballard,other,66,2023-08-10,east,senior
+C0643,regina,brown,female,51,2024-04-20,west,mid adult
+C0644,joshua,walters,male,38,2023-02-26,east,adult
+C0645,kaitlyn,williams,other,44,2021-07-11,west,adult
+C0646,james,morrow,other,49,2022-03-04,west,mid adult
+C0647,jacqueline,garcia,female,55,2021-06-18,west,mid adult
+C0648,richard,mosley,other,68,2024-08-07,north,senior
+C0649,nathan,avila,male,32,2023-07-09,south,adult
+C0650,sandra,martinez,female,33,2024-08-30,west,adult
+C0651,kevin,kim,male,37,2025-04-01,west,adult
+C0652,misty,oneal,female,54,2024-09-05,south,mid adult
+C0653,erik,williams,female,34,2022-11-11,north,adult
+C0654,michael,jefferson,male,66,2023-04-02,north,senior
+C0655,david,phillips,female,44,2020-09-25,east,adult
+C0656,hannah,frazier,male,55,2023-08-27,north,mid adult
+C0657,richard,martinez,female,50,2023-01-24,east,mid adult
+C0658,greg,gonzalez,female,46,2022-07-02,west,mid adult
+C0659,johnny,nunez,female,44,2022-03-31,east,adult
+C0660,william,miller,female,38,2024-07-13,east,adult
+C0661,kristin,powell,female,19,2021-10-04,south,young adult
+C0662,jennifer,reyes,female,32,2024-04-05,east,adult
+C0663,isaac,watkins,other,22,2024-03-19,east,young adult
+C0664,john,sandoval,male,36,2022-05-13,north,adult
+C0665,luke,santos,female,32,2021-05-28,north,adult
+C0666,nicole,reynolds,male,22,2024-03-08,east,young adult
+C0667,mary,white,male,52,2021-09-30,south,mid adult
+C0668,jonathan,marshall,female,30,2025-03-18,east,young adult
+C0669,kyle,reilly,female,37,2022-05-17,east,adult
+C0670,bryan,turner,male,63,2021-08-13,south,senior
+C0671,andrew,davis,other,65,2023-05-10,east,senior
+C0672,matthew,good,male,67,2020-06-05,east,senior
+C0673,timothy,moreno,female,70,2020-08-17,east,senior
+C0674,juan,allen,female,43,2021-06-30,north,adult
+C0675,jamie,le,female,59,2022-09-26,south,mid adult
+C0676,laura,lewis,female,32,2023-08-16,south,adult
+C0677,ashley,johnson,other,65,2021-07-16,south,senior
+C0678,audrey,benson,female,32,2023-07-09,west,adult
+C0679,deanna,kent,other,70,2022-12-04,west,senior
+C0680,daniel,calderon,female,68,2023-12-10,north,senior
+C0681,shannon,henry,female,30,2024-05-22,west,young adult
+C0682,ashley,black,other,44,2024-05-08,south,adult
+C0683,katherine,saunders,female,46,2022-06-29,north,mid adult
+C0684,diana,mccormick,female,26,2022-01-14,south,young adult
+C0685,erika,brown,female,65,2023-04-30,north,senior
+C0686,melissa,cox,female,69,2023-01-01,east,senior
+C0687,mark,chavez,female,32,2023-02-24,west,adult
+C0688,melinda,stewart,female,61,2020-06-13,west,senior
+C0689,courtney,cook,other,52,2020-11-04,east,mid adult
+C0690,justin,chang,female,55,2023-12-20,north,mid adult
+C0691,matthew,norman,other,68,2022-04-24,north,senior
+C0692,margaret,rodriguez,male,27,2024-05-28,east,young adult
+C0693,daniel,hudson,other,58,2023-05-26,west,mid adult
+C0694,lorraine,smith,female,31,2023-06-05,west,adult
+C0695,amy,johnson,male,52,2024-01-05,west,mid adult
+C0696,stephen,ross,male,48,2020-11-13,north,mid adult
+C0697,gregory,harris,female,54,2021-02-28,west,mid adult
+C0698,charles,gordon,other,37,2024-09-09,north,adult
+C0699,sydney,smith,male,24,2021-05-15,south,young adult
+C0700,anthony,reed,male,70,2023-01-09,west,senior
+C0701,jason,mcneil,male,29,2022-05-17,south,young adult
+C0702,nicholas,williams,male,42,2023-02-23,east,adult
+C0703,john,buck,male,32,2020-12-19,east,adult
+C0704,david,avery,other,51,2023-02-21,north,mid adult
+C0705,felicia,guerrero,female,21,2023-12-16,east,young adult
+C0706,madeline,rodriguez,other,44,2022-08-03,south,adult
+C0707,sheila,vaughn,female,44,2022-01-17,west,adult
+C0708,juan,gross,male,25,2025-03-14,south,young adult
+C0709,kevin,brown,other,44,2023-12-20,west,adult
+C0710,david,harris,other,22,2021-12-16,west,young adult
+C0711,alice,ross,male,26,2021-09-23,south,young adult
+C0712,allison,combs,female,45,2023-08-08,west,adult
+C0713,vicki,duncan,male,56,2021-08-11,east,mid adult
+C0714,patricia,harvey,other,30,2024-08-19,west,young adult
+C0715,john,phillips,female,30,2021-08-03,north,young adult
+C0716,david,brown,male,46,2020-07-05,north,mid adult
+C0717,deborah,castillo,female,56,2024-08-24,south,mid adult
+C0718,joseph,williams,other,39,2021-11-19,west,adult
+C0719,michael,kelly,female,47,2024-10-15,north,mid adult
+C0720,megan,sims,other,23,2022-08-09,east,young adult
+C0721,elaine,young,other,47,2022-04-12,east,mid adult
+C0722,olivia,nelson,other,63,2025-03-16,east,senior
+C0723,mark,franklin,female,57,2020-10-19,south,mid adult
+C0724,robert,davis,female,33,2024-03-02,south,adult
+C0725,eric,moore,other,64,2023-03-06,west,senior
+C0726,mark,bond,female,42,2023-03-25,south,adult
+C0727,justin,morris,other,54,2024-12-20,north,mid adult
+C0728,bradley,gordon,female,62,2023-03-31,north,senior
+C0729,christopher,morales,male,28,2021-08-22,east,young adult
+C0730,gina,wagner,other,52,2021-03-01,east,mid adult
+C0731,erin,johnson,other,22,2021-07-12,south,young adult
+C0732,kimberly,harrell,female,44,2023-12-02,north,adult
+C0733,jessica,nelson,female,22,2023-06-15,north,young adult
+C0734,michelle,lindsey,other,67,2022-01-15,east,senior
+C0735,kelly,nelson,female,46,2020-08-24,south,mid adult
+C0736,matthew,carr,female,31,2021-03-03,north,adult
+C0737,robert,bennett,female,19,2023-05-25,north,young adult
+C0738,danny,salas,other,62,2024-09-14,west,senior
+C0739,mariah,mercer,female,39,2023-10-27,west,adult
+C0740,john,bush,male,43,2021-04-16,north,adult
+C0741,laura,warren,male,34,2024-05-29,north,adult
+C0742,steven,mata,other,26,2021-06-12,east,young adult
+C0743,andrew,rivera,other,65,2022-02-07,west,senior
+C0744,sara,collins,female,47,2025-04-07,north,mid adult
+C0745,julie,garcia,male,53,2021-02-25,south,mid adult
+C0746,tonya,wilson,other,46,2024-06-04,south,mid adult
+C0747,richard,harrison,female,70,2021-09-26,east,senior
+C0748,michelle,johns,male,28,2021-12-15,north,young adult
+C0749,cory,wise,other,24,2023-07-15,south,young adult
+C0750,kyle,montgomery,female,25,2024-11-18,west,young adult
+C0751,sydney,koch,male,22,2021-09-16,north,young adult
+C0752,lacey,luna,other,35,2024-07-06,south,adult
+C0753,kirsten,allen,female,40,2022-10-05,south,adult
+C0754,steven,jordan,male,63,2022-11-24,north,senior
+C0755,jonathan,miller,other,52,2022-03-27,south,mid adult
+C0756,william,roach,female,62,2021-03-10,north,senior
+C0757,leah,hill,other,69,2021-08-09,north,senior
+C0758,barbara,hernandez,female,62,2024-09-07,east,senior
+C0759,amanda,johnson,female,21,2022-10-21,north,young adult
+C0760,dana,brown,male,67,2024-06-14,west,senior
+C0761,melissa,fitzgerald,male,33,2023-09-03,east,adult
+C0762,antonio,jackson,male,30,2023-10-26,north,young adult
+C0763,rachel,little,male,44,2022-03-23,north,adult
+C0764,david,kelley,male,39,2023-10-16,south,adult
+C0765,angela,garcia,other,60,2024-12-19,north,mid adult
+C0766,seth,edwards,male,44,2021-04-25,south,adult
+C0767,daniel,gregory,other,28,2020-11-21,north,young adult
+C0768,gail,rosales,female,50,2024-07-02,north,mid adult
+C0769,renee,tucker,female,38,2020-11-14,south,adult
+C0770,emily,johnson,other,31,2023-06-18,west,adult
+C0771,charlene,benson,female,25,2020-12-29,south,young adult
+C0772,kenneth,stuart,male,24,2024-04-25,east,young adult
+C0773,rhonda,kline,female,29,2022-12-27,north,young adult
+C0774,vanessa,martin,female,59,2022-06-21,east,mid adult
+C0775,cynthia,hart,male,42,2023-07-15,south,adult
+C0776,katherine,lane,female,32,2021-06-07,north,adult
+C0777,anna,hammond,other,70,2021-03-17,east,senior
+C0778,taylor,hudson,other,57,2023-03-05,east,mid adult
+C0779,joshua,meyer,male,22,2020-04-16,south,young adult
+C0780,breanna,schroeder,female,37,2023-10-08,west,adult
+C0781,latasha,morales,male,63,2020-11-11,south,senior
+C0782,joseph,logan,female,24,2023-06-28,east,young adult
+C0783,alyssa,wright,other,62,2021-03-13,west,senior
+C0784,angela,johnson,other,67,2020-12-12,south,senior
+C0785,lisa,richmond,female,29,2020-10-11,east,young adult
+C0786,patricia,mccarty,other,48,2022-07-31,north,mid adult
+C0787,alicia,jimenez,female,19,2023-06-07,west,young adult
+C0788,timothy,scott,female,50,2023-04-12,south,mid adult
+C0789,tonya,sandoval,other,55,2024-07-21,north,mid adult
+C0790,julie,pugh,male,19,2022-11-20,north,young adult
+C0791,brittany,murray,female,33,2023-11-01,west,adult
+C0792,daniel,haney,male,57,2020-12-31,north,mid adult
+C0793,charles,lee,male,26,2023-05-13,east,young adult
+C0794,brent,brown,female,36,2023-08-21,south,adult
+C0795,emily,smith,male,42,2025-04-03,south,adult
+C0796,jonathan,gardner,other,20,2023-03-08,south,young adult
+C0797,jordan,smith,other,56,2020-04-29,west,mid adult
+C0798,rachel,porter,other,39,2020-08-12,south,adult
+C0799,jeffrey,myers,female,44,2024-06-12,north,adult

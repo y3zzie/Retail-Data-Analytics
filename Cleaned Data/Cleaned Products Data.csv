@@ -1,0 +1,1201 @@
+product_id,product_name,category,brand,cost_price,unit_price,margin_pct,profit_per_unit,price_range,margin_category
+P0000,brand a shoulder,electronics,brand c,52.75,64.65,18.41,11.900000000000006,budget,medium margin
+P0001,brand a responsibility,electronics,brand d,11.2,13.26,15.54,2.0600000000000005,budget,medium margin
+P0002,brand b small,electronics,brand b,144.62,250.37,42.24,105.75,mid Range,high margin
+P0003,brand d continue,apparel,brand d,119.91,219.25,45.31,99.34,mid Range,high margin
+P0004,brand a indeed,apparel,brand d,71.35,88.47,19.35,17.120000000000005,budget,medium margin
+P0005,brand c cut,electronics,brand a,79.09,112.55,29.73,33.459999999999994,mid Range,high margin
+P0006,brand c air,home & kitchen,brand a,147.3,233.12,36.81,85.82,mid Range,high margin
+P0007,brand d state,electronics,brand c,166.73,276.22,39.64,109.49000000000004,mid Range,high margin
+P0008,brand c growth,apparel,brand a,13.94,18.19,23.36,4.250000000000002,budget,medium margin
+P0009,brand c keep,electronics,brand b,173.96,250.87,30.66,76.91,mid Range,high margin
+P0010,brand d reveal,home & kitchen,brand b,77.19,99.46,22.39,22.269999999999996,budget,medium margin
+P0011,brand c laugh,electronics,brand b,109.16,144.13,24.26,34.97,mid Range,medium margin
+P0012,brand d cell,personal care,brand c,197.96,331.78,40.33,133.81999999999996,mid Range,high margin
+P0013,brand b seat,home & kitchen,brand a,49.66,56.06,11.42,6.400000000000006,budget,medium margin
+P0014,brand c argue,personal care,brand c,17.91,34.42,47.97,16.51,budget,high margin
+P0015,brand c peace,apparel,brand d,82.15,157.98,48.0,75.82999999999998,mid Range,high margin
+P0016,brand d crime,apparel,brand c,32.23,57.06,43.52,24.830000000000005,budget,high margin
+P0017,brand c firm,personal care,brand d,75.59,151.0,49.94,75.41,mid Range,high margin
+P0018,brand b management,personal care,brand a,152.38,285.71,46.67,133.32999999999998,mid Range,high margin
+P0019,brand b left,apparel,brand d,121.3,175.44,30.86,54.14,mid Range,high margin
+P0020,brand d house,home & kitchen,brand a,137.66,165.62,16.88,27.960000000000008,mid Range,medium margin
+P0021,brand c shake,home & kitchen,brand a,62.23,77.31,19.51,15.080000000000005,budget,medium margin
+P0022,brand a much,home & kitchen,brand b,104.0,124.36,16.37,20.36,mid Range,medium margin
+P0023,brand c believe,apparel,unknown,77.91,97.03,19.71,19.120000000000005,budget,medium margin
+P0024,brand a black,home & kitchen,brand d,8.8,17.04,48.36,8.239999999999998,budget,high margin
+P0025,brand c resource,apparel,brand a,51.97,83.7,37.91,31.730000000000004,budget,high margin
+P0026,brand a fund,electronics,brand d,164.12,324.99,49.5,160.87,mid Range,high margin
+P0027,brand b probably,apparel,brand d,189.64,236.79,19.91,47.150000000000006,mid Range,medium margin
+P0028,brand d degree,apparel,brand b,144.03,210.15,31.46,66.12,mid Range,high margin
+P0029,brand c stuff,personal care,brand d,28.6,37.24,23.2,8.64,budget,medium margin
+P0030,brand c war,electronics,brand b,119.75,132.5,9.62,12.75,mid Range,low margin
+P0031,brand a responsibility,apparel,brand a,181.56,340.18,46.63,158.62,mid Range,high margin
+P0032,brand a role,apparel,brand c,135.45,175.11,22.65,39.660000000000025,mid Range,medium margin
+P0033,brand b training,personal care,brand b,158.0,288.63,45.26,130.63,mid Range,high margin
+P0034,brand b draw,electronics,brand a,133.5,189.42,29.52,55.91999999999999,mid Range,high margin
+P0035,brand d sure,personal care,brand a,136.31,270.68,49.64,134.37,mid Range,high margin
+P0036,brand a beautiful,electronics,brand d,147.0,267.62,45.07,120.62,mid Range,high margin
+P0037,brand a one,apparel,brand b,42.09,63.29,33.5,21.199999999999996,budget,high margin
+P0038,brand d the,apparel,brand c,95.21,179.66,47.01,84.45,mid Range,high margin
+P0039,brand a professor,personal care,brand a,14.86,29.71,49.98,14.850000000000001,budget,high margin
+P0040,brand a identify,electronics,brand b,37.43,57.53,34.94,20.1,budget,high margin
+P0041,brand b prevent,personal care,brand a,37.1,40.88,9.25,3.780000000000001,budget,low margin
+P0042,brand d outside,home & kitchen,brand d,60.62,104.69,42.1,44.07,mid Range,high margin
+P0043,brand d who,apparel,unknown,62.86,123.95,49.29,61.09,mid Range,high margin
+P0044,brand a argue,home & kitchen,unknown,14.78,22.6,34.6,7.820000000000002,budget,high margin
+P0045,brand b tend,electronics,brand a,171.01,198.66,13.92,27.650000000000006,mid Range,medium margin
+P0046,brand a usually,apparel,brand d,28.38,53.96,47.41,25.580000000000002,budget,high margin
+P0047,brand b son,electronics,brand a,86.75,141.0,38.48,54.25,mid Range,high margin
+P0048,brand c carry,home & kitchen,brand b,135.6,187.5,27.68,51.900000000000006,mid Range,high margin
+P0049,brand c bit,personal care,unknown,135.98,186.29,27.01,50.31,mid Range,high margin
+P0050,brand c marriage,electronics,brand a,94.37,188.61,49.97,94.24000000000001,mid Range,high margin
+P0051,brand a table,electronics,brand b,103.65,126.37,17.98,22.72,mid Range,medium margin
+P0052,brand c agency,electronics,brand b,77.06,95.71,19.49,18.64999999999999,budget,medium margin
+P0053,brand c decision,electronics,brand c,186.69,222.76,16.19,36.06999999999999,mid Range,medium margin
+P0054,brand b our,home & kitchen,brand a,178.49,315.6,43.44,137.11,mid Range,high margin
+P0055,brand b day,home & kitchen,brand c,122.94,214.63,42.72,91.69,mid Range,high margin
+P0056,brand b operation,home & kitchen,brand d,53.97,103.48,47.84,49.510000000000005,mid Range,high margin
+P0057,brand a majority,electronics,brand d,166.72,190.01,12.26,23.289999999999992,mid Range,medium margin
+P0058,brand c recently,apparel,unknown,36.51,54.68,33.23,18.17,budget,high margin
+P0059,brand d mother,electronics,brand a,19.67,37.27,47.22,17.6,budget,high margin
+P0060,brand b society,electronics,brand c,118.59,146.26,18.92,27.669999999999987,mid Range,medium margin
+P0061,brand b off,electronics,brand c,76.11,147.64,48.45,71.52999999999999,mid Range,high margin
+P0062,brand a five,home & kitchen,brand b,138.0,234.63,41.18,96.63,mid Range,high margin
+P0063,brand c congress,personal care,brand b,185.52,243.6,23.84,58.079999999999984,mid Range,medium margin
+P0064,brand b important,apparel,brand d,9.83,17.33,43.28,7.499999999999998,budget,high margin
+P0065,brand c moment,personal care,brand b,57.03,103.15,44.71,46.120000000000005,mid Range,high margin
+P0066,brand a computer,personal care,brand a,172.43,224.19,23.09,51.75999999999999,mid Range,medium margin
+P0067,brand d indeed,home & kitchen,brand c,165.0,310.89,46.93,145.89,mid Range,high margin
+P0068,brand b nice,electronics,brand b,82.7,111.71,25.97,29.00999999999999,mid Range,high margin
+P0069,brand a wait,home & kitchen,brand c,130.09,189.89,31.49,59.79999999999998,mid Range,high margin
+P0070,brand c quality,electronics,unknown,176.02,235.0,25.1,58.97999999999999,mid Range,high margin
+P0071,brand c tough,electronics,brand a,121.33,171.21,29.13,49.88000000000001,mid Range,high margin
+P0072,brand c finish,personal care,brand a,80.11,129.69,38.23,49.58,mid Range,high margin
+P0073,brand c help,electronics,brand d,5.33,10.3,48.25,4.970000000000001,budget,high margin
+P0074,brand b no,home & kitchen,brand d,18.64,31.65,41.11,13.009999999999998,budget,high margin
+P0075,brand c better,home & kitchen,brand a,145.35,199.17,27.02,53.81999999999999,mid Range,high margin
+P0076,brand c economy,personal care,brand c,83.47,114.03,26.8,30.560000000000002,mid Range,high margin
+P0077,brand b need,apparel,brand d,134.66,194.08,30.62,59.420000000000016,mid Range,high margin
+P0078,brand b oil,home & kitchen,brand d,111.85,123.08,9.12,11.230000000000004,mid Range,low margin
+P0079,brand c southern,apparel,brand d,158.22,260.43,39.25,102.21000000000001,mid Range,high margin
+P0080,brand c market,personal care,brand d,91.22,117.89,22.62,26.67,mid Range,medium margin
+P0081,brand d need,apparel,brand a,60.34,102.43,41.09,42.09,mid Range,high margin
+P0082,brand c society,electronics,brand b,136.2,177.36,23.21,41.160000000000025,mid Range,medium margin
+P0083,brand b weight,apparel,brand a,14.01,27.82,49.64,13.81,budget,high margin
+P0084,brand a head,personal care,brand d,177.8,287.7,38.2,109.89999999999998,mid Range,high margin
+P0085,brand d officer,personal care,brand d,52.58,88.88,40.84,36.3,budget,high margin
+P0086,brand a born,electronics,brand d,47.67,86.94,45.17,39.269999999999996,budget,high margin
+P0087,brand d accept,electronics,brand b,183.91,222.39,17.3,38.47999999999999,mid Range,medium margin
+P0088,brand b compare,personal care,brand c,190.26,361.93,47.43,171.67000000000002,mid Range,high margin
+P0089,brand d answer,personal care,brand b,150.01,229.1,34.52,79.09,mid Range,high margin
+P0090,brand c chance,apparel,brand c,154.33,242.17,36.27,87.83999999999997,mid Range,high margin
+P0091,brand b add,home & kitchen,brand d,20.11,27.29,26.31,7.18,budget,high margin
+P0092,brand c half,home & kitchen,brand c,179.14,210.05,14.72,30.910000000000025,mid Range,medium margin
+P0093,brand b present,apparel,brand d,140.32,243.56,42.39,103.24000000000001,mid Range,high margin
+P0094,brand a president,personal care,brand d,69.52,105.62,34.18,36.10000000000001,mid Range,high margin
+P0095,brand a so,apparel,brand d,80.95,145.13,44.22,64.17999999999999,mid Range,high margin
+P0096,brand a drive,personal care,brand d,6.15,8.71,29.39,2.5600000000000005,budget,high margin
+P0097,brand d might,personal care,brand b,100.2,134.83,25.68,34.63000000000001,mid Range,high margin
+P0098,brand d officer,electronics,brand d,70.55,120.73,41.56,50.18000000000001,mid Range,high margin
+P0099,brand d indicate,apparel,brand d,184.31,365.42,49.56,181.11,mid Range,high margin
+P0100,brand a off,personal care,brand a,21.37,31.75,32.69,10.379999999999999,budget,high margin
+P0101,brand d fall,apparel,unknown,55.73,77.72,28.29,21.990000000000002,budget,high margin
+P0102,brand d improve,home & kitchen,brand c,153.44,221.14,30.61,67.69999999999999,mid Range,high margin
+P0103,brand d or,home & kitchen,brand a,96.71,171.58,43.64,74.87000000000002,mid Range,high margin
+P0104,brand a among,home & kitchen,brand b,131.78,237.61,44.54,105.83000000000001,mid Range,high margin
+P0105,brand a same,electronics,brand b,43.88,49.07,10.58,5.189999999999998,budget,medium margin
+P0106,brand b follow,apparel,brand b,97.34,117.1,16.87,19.75999999999999,mid Range,medium margin
+P0107,brand b never,personal care,unknown,154.55,193.34,20.06,38.78999999999999,mid Range,medium margin
+P0108,brand a make,apparel,brand c,26.08,29.29,10.96,3.210000000000001,budget,medium margin
+P0109,brand c break,personal care,unknown,188.59,241.11,21.78,52.52000000000001,mid Range,medium margin
+P0110,brand b not,electronics,brand c,170.81,280.19,39.04,109.38,mid Range,high margin
+P0111,brand a first,electronics,brand c,108.89,184.61,41.02,75.72000000000001,mid Range,high margin
+P0112,brand a represent,home & kitchen,brand a,170.67,314.05,45.66,143.38000000000002,mid Range,high margin
+P0113,brand a company,personal care,brand c,128.94,238.0,45.82,109.06,mid Range,high margin
+P0114,brand b you,personal care,brand b,148.09,291.58,49.21,143.48999999999998,mid Range,high margin
+P0115,brand c piece,personal care,brand d,89.94,158.11,43.12,68.17000000000002,mid Range,high margin
+P0116,brand c sometimes,home & kitchen,brand b,166.99,196.71,15.11,29.72,mid Range,medium margin
+P0117,brand d hair,apparel,brand d,116.12,197.56,41.22,81.44,mid Range,high margin
+P0118,brand c manager,electronics,brand d,170.94,216.01,20.86,45.06999999999999,mid Range,medium margin
+P0119,brand b quite,home & kitchen,brand c,71.37,135.05,47.15,63.68000000000001,mid Range,high margin
+P0120,brand c arm,electronics,brand b,21.69,37.92,42.8,16.23,budget,high margin
+P0121,brand d stand,apparel,brand d,130.95,201.89,35.14,70.94,mid Range,high margin
+P0122,brand a loss,electronics,brand c,48.21,83.05,41.95,34.839999999999996,budget,high margin
+P0123,brand c word,home & kitchen,brand d,112.93,159.16,29.05,46.22999999999999,mid Range,high margin
+P0124,brand c every,home & kitchen,brand d,57.83,76.7,24.6,18.870000000000005,budget,medium margin
+P0125,brand a off,apparel,brand c,28.31,44.79,36.79,16.48,budget,high margin
+P0126,brand b history,apparel,brand b,149.03,201.02,25.86,51.99000000000001,mid Range,high margin
+P0127,brand c another,electronics,brand b,62.77,89.43,29.81,26.660000000000004,budget,high margin
+P0128,brand c look,electronics,brand b,58.49,115.63,49.42,57.13999999999999,mid Range,high margin
+P0129,brand c let,apparel,brand d,25.0,27.78,10.01,2.780000000000001,budget,medium margin
+P0130,brand c trial,personal care,brand d,90.89,115.06,21.01,24.17,mid Range,medium margin
+P0131,brand a gas,home & kitchen,brand d,27.25,31.58,13.71,4.329999999999998,budget,medium margin
+P0132,brand d ever,electronics,brand a,34.59,63.3,45.36,28.709999999999994,budget,high margin
+P0133,brand c physical,electronics,brand b,28.1,50.24,44.07,22.14,budget,high margin
+P0134,brand b step,personal care,brand d,182.16,249.13,26.88,66.97,mid Range,high margin
+P0135,brand d especially,home & kitchen,brand a,123.88,218.78,43.38,94.9,mid Range,high margin
+P0136,brand b treat,apparel,brand c,133.78,166.07,19.44,32.28999999999999,mid Range,medium margin
+P0137,brand b money,electronics,brand b,5.52,8.31,33.57,2.790000000000001,budget,high margin
+P0138,brand d prove,home & kitchen,brand a,50.14,87.06,42.41,36.92,budget,high margin
+P0139,brand d own,electronics,brand b,185.16,334.96,44.72,149.79999999999998,mid Range,high margin
+P0140,brand b community,personal care,brand a,111.19,187.12,40.58,75.93,mid Range,high margin
+P0141,brand c hour,apparel,brand a,16.63,30.16,44.86,13.530000000000001,budget,high margin
+P0142,brand c factor,personal care,brand a,96.4,132.42,27.2,36.01999999999998,mid Range,high margin
+P0143,brand d dark,home & kitchen,brand d,90.36,148.03,38.96,57.67,mid Range,high margin
+P0144,brand d mind,home & kitchen,brand c,10.04,13.11,23.42,3.0700000000000003,budget,medium margin
+P0145,brand a stay,home & kitchen,brand a,153.81,193.44,20.49,39.629999999999995,mid Range,medium margin
+P0146,brand d church,home & kitchen,brand b,199.4,297.56,32.99,98.16,mid Range,high margin
+P0147,brand d safe,electronics,brand d,72.85,101.99,28.57,29.14,mid Range,high margin
+P0148,brand a particular,apparel,brand c,85.27,131.82,35.31,46.55,mid Range,high margin
+P0149,brand d hot,electronics,brand d,22.17,29.42,24.64,7.25,budget,medium margin
+P0150,brand a serious,personal care,brand a,133.24,211.63,37.04,78.38999999999999,mid Range,high margin
+P0151,brand d side,electronics,brand b,106.1,176.17,39.77,70.07,mid Range,high margin
+P0152,brand d growth,personal care,brand a,44.69,71.25,37.28,26.560000000000002,budget,high margin
+P0153,brand c surface,personal care,brand d,28.68,56.67,49.39,27.990000000000002,budget,high margin
+P0154,brand b alone,apparel,brand c,112.41,179.52,37.38,67.11000000000001,mid Range,high margin
+P0155,brand a world,apparel,brand a,94.98,114.52,17.06,19.539999999999992,mid Range,medium margin
+P0156,brand b smile,personal care,brand c,104.23,140.3,25.71,36.07000000000001,mid Range,high margin
+P0157,brand d past,personal care,brand b,94.07,115.72,18.71,21.650000000000006,mid Range,medium margin
+P0158,brand b value,apparel,brand a,58.87,106.61,44.78,47.74,mid Range,high margin
+P0159,brand d some,home & kitchen,brand c,165.01,223.52,26.18,58.51000000000002,mid Range,high margin
+P0160,brand c memory,personal care,brand b,92.08,141.43,34.89,49.35000000000001,mid Range,high margin
+P0161,brand c least,personal care,brand d,186.91,351.88,46.88,164.97,mid Range,high margin
+P0162,brand b onto,personal care,brand b,171.92,252.67,31.96,80.75,mid Range,high margin
+P0163,brand c power,personal care,unknown,80.29,136.28,41.08,55.989999999999995,mid Range,high margin
+P0164,brand b whatever,personal care,brand a,29.62,58.32,49.21,28.7,budget,high margin
+P0165,brand c establish,electronics,brand d,24.44,46.91,47.9,22.469999999999995,budget,high margin
+P0166,brand a human,apparel,brand d,174.83,344.93,49.31,170.1,mid Range,high margin
+P0167,brand a early,personal care,brand c,71.02,122.4,41.98,51.38000000000001,mid Range,high margin
+P0168,brand a mouth,home & kitchen,brand d,191.06,317.95,39.91,126.88999999999999,mid Range,high margin
+P0169,brand d get,electronics,brand a,50.78,87.14,41.73,36.36,budget,high margin
+P0170,brand c education,apparel,unknown,89.62,106.52,15.87,16.89999999999999,mid Range,medium margin
+P0171,brand a sometimes,personal care,brand b,140.33,268.46,47.73,128.12999999999997,mid Range,high margin
+P0172,brand a difficult,home & kitchen,brand a,62.21,89.42,30.43,27.21,budget,high margin
+P0173,brand b player,apparel,brand d,115.36,209.18,44.85,93.82000000000001,mid Range,high margin
+P0174,brand b decide,apparel,brand a,123.85,178.88,30.76,55.03,mid Range,high margin
+P0175,brand b give,personal care,brand b,50.28,84.17,40.26,33.89,budget,high margin
+P0176,brand d offer,home & kitchen,brand a,180.29,273.81,34.16,93.52000000000001,mid Range,high margin
+P0177,brand c may,apparel,brand a,91.14,128.6,29.13,37.459999999999994,mid Range,high margin
+P0178,brand c use,personal care,brand c,94.08,129.07,27.11,34.989999999999995,mid Range,high margin
+P0179,brand d product,personal care,brand a,51.26,82.77,38.07,31.509999999999998,budget,high margin
+P0180,brand c unit,home & kitchen,brand a,195.7,331.2,40.91,135.5,mid Range,high margin
+P0181,brand c card,electronics,brand a,182.57,323.27,43.52,140.7,mid Range,high margin
+P0182,brand c fund,apparel,brand c,47.71,60.65,21.34,12.939999999999998,budget,medium margin
+P0183,brand c direction,apparel,brand a,181.16,304.66,40.54,123.50000000000003,mid Range,high margin
+P0184,brand c think,personal care,brand a,118.02,207.61,43.15,89.59000000000002,mid Range,high margin
+P0185,brand a mind,home & kitchen,brand c,150.76,189.67,20.51,38.91,mid Range,medium margin
+P0186,brand b who,home & kitchen,brand c,166.94,222.24,24.88,55.30000000000001,mid Range,medium margin
+P0187,brand d party,home & kitchen,brand c,161.83,246.22,34.27,84.38999999999999,mid Range,high margin
+P0188,brand a strong,apparel,brand b,172.73,302.59,42.92,129.85999999999999,mid Range,high margin
+P0189,brand d tax,home & kitchen,brand a,159.18,177.09,10.11,17.909999999999997,mid Range,medium margin
+P0190,brand a middle,personal care,brand c,136.2,232.24,41.35,96.04000000000002,mid Range,high margin
+P0191,brand d face,home & kitchen,brand a,136.59,208.21,34.4,71.62,mid Range,high margin
+P0192,brand c become,apparel,brand a,128.9,195.65,34.12,66.75,mid Range,high margin
+P0193,brand c nothing,personal care,brand a,32.26,62.96,48.76,30.700000000000003,budget,high margin
+P0194,brand c in,personal care,brand a,23.95,45.47,47.33,21.52,budget,high margin
+P0195,brand b care,personal care,brand d,77.35,151.18,48.84,73.83000000000001,mid Range,high margin
+P0196,brand d strategy,apparel,brand d,132.71,245.56,45.96,112.85,mid Range,high margin
+P0197,brand d campaign,home & kitchen,brand a,139.6,180.86,22.81,41.26000000000002,mid Range,medium margin
+P0198,brand d instead,apparel,brand c,24.37,41.85,41.77,17.48,budget,high margin
+P0199,brand c grow,electronics,brand d,58.8,115.92,49.28,57.120000000000005,mid Range,high margin
+P0200,brand d while,electronics,brand b,130.13,213.08,38.93,82.95000000000002,mid Range,high margin
+P0201,brand a good,electronics,brand c,52.5,63.7,17.58,11.200000000000003,budget,medium margin
+P0202,brand b simple,electronics,brand b,119.34,218.6,45.41,99.25999999999999,mid Range,high margin
+P0203,brand b since,home & kitchen,brand b,158.79,259.84,38.89,101.04999999999998,mid Range,high margin
+P0204,brand c right,apparel,brand b,110.34,200.67,45.01,90.32999999999998,mid Range,high margin
+P0205,brand a congress,electronics,brand b,7.9,14.31,44.79,6.41,budget,high margin
+P0206,brand b police,home & kitchen,brand a,38.98,44.72,12.84,5.740000000000002,budget,medium margin
+P0207,brand d use,electronics,brand a,97.87,176.19,44.45,78.32,mid Range,high margin
+P0208,brand a situation,personal care,brand b,189.36,215.69,12.21,26.329999999999984,mid Range,medium margin
+P0209,brand c over,personal care,brand a,16.86,25.81,34.68,8.95,budget,high margin
+P0210,brand d discuss,personal care,brand a,100.6,193.02,47.88,92.42000000000002,mid Range,high margin
+P0211,brand a middle,electronics,brand c,123.62,143.29,13.73,19.669999999999987,mid Range,medium margin
+P0212,brand c finally,home & kitchen,brand d,198.95,313.84,36.61,114.88999999999999,mid Range,high margin
+P0213,brand d young,personal care,brand a,159.65,192.05,16.87,32.400000000000006,mid Range,medium margin
+P0214,brand b apply,personal care,brand d,178.18,262.36,32.09,84.18,mid Range,high margin
+P0215,brand d whom,personal care,brand d,147.27,203.42,27.6,56.14999999999998,mid Range,high margin
+P0216,brand c between,home & kitchen,brand c,190.95,328.08,41.8,137.13,mid Range,high margin
+P0217,brand d husband,electronics,brand a,167.2,197.95,15.53,30.75,mid Range,medium margin
+P0218,brand a child,home & kitchen,brand b,113.49,184.74,38.57,71.25000000000001,mid Range,high margin
+P0219,brand c radio,electronics,brand d,73.95,125.63,41.14,51.67999999999999,mid Range,high margin
+P0220,brand d artist,electronics,brand c,122.08,172.92,29.4,50.83999999999999,mid Range,high margin
+P0221,brand b network,apparel,brand d,48.73,58.35,16.49,9.620000000000005,budget,medium margin
+P0222,brand c business,electronics,brand c,116.95,213.61,45.25,96.66000000000001,mid Range,high margin
+P0223,brand a song,home & kitchen,brand a,40.18,69.61,42.28,29.43,budget,high margin
+P0224,brand c mouth,home & kitchen,brand c,6.19,11.66,46.91,5.47,budget,high margin
+P0225,brand d week,electronics,brand b,149.49,295.19,49.36,145.7,mid Range,high margin
+P0226,brand a other,apparel,brand d,86.87,122.21,28.92,35.33999999999999,mid Range,high margin
+P0227,brand c recent,home & kitchen,brand c,156.48,252.06,37.92,95.58000000000001,mid Range,high margin
+P0228,brand a herself,electronics,brand b,35.69,59.1,39.61,23.410000000000004,budget,high margin
+P0229,brand a degree,home & kitchen,brand d,134.08,206.09,34.94,72.00999999999999,mid Range,high margin
+P0230,brand d car,personal care,brand c,47.04,73.43,35.94,26.390000000000008,budget,high margin
+P0231,brand c part,personal care,brand a,60.23,103.03,41.54,42.800000000000004,mid Range,high margin
+P0232,brand d poor,home & kitchen,brand a,48.0,95.33,49.65,47.33,budget,high margin
+P0233,brand a relationship,electronics,brand b,63.78,82.28,22.48,18.5,budget,medium margin
+P0234,brand b cup,home & kitchen,brand c,68.98,76.36,9.66,7.3799999999999955,budget,low margin
+P0235,brand d list,apparel,brand b,79.14,137.17,42.31,58.02999999999999,mid Range,high margin
+P0236,brand c still,electronics,brand d,173.04,196.93,12.13,23.890000000000015,mid Range,medium margin
+P0237,brand a during,personal care,brand a,173.11,280.12,38.2,107.00999999999999,mid Range,high margin
+P0238,brand d say,personal care,brand c,27.46,30.72,10.61,3.259999999999998,budget,medium margin
+P0239,brand c market,apparel,brand d,167.25,322.42,48.13,155.17000000000002,mid Range,high margin
+P0240,brand a real,personal care,unknown,52.45,85.49,38.65,33.03999999999999,budget,high margin
+P0241,brand a town,personal care,brand c,150.43,195.47,23.04,45.03999999999999,mid Range,medium margin
+P0242,brand b report,electronics,brand a,108.47,138.25,21.54,29.78,mid Range,medium margin
+P0243,brand c who,home & kitchen,unknown,51.07,62.91,18.82,11.839999999999996,budget,medium margin
+P0244,brand b walk,apparel,brand b,153.24,258.97,40.83,105.73000000000002,mid Range,high margin
+P0245,brand b we,personal care,brand d,152.12,271.37,43.94,119.25,mid Range,high margin
+P0246,brand d social,home & kitchen,brand c,34.44,40.0,13.9,5.560000000000002,budget,medium margin
+P0247,brand d hundred,home & kitchen,brand c,120.33,170.48,29.42,50.14999999999999,mid Range,high margin
+P0248,brand a teacher,home & kitchen,brand d,93.12,107.2,13.13,14.079999999999998,mid Range,medium margin
+P0249,brand c firm,electronics,brand a,124.93,194.44,35.75,69.50999999999999,mid Range,high margin
+P0250,brand d hard,electronics,brand d,182.26,294.26,38.06,112.0,mid Range,high margin
+P0251,brand b task,home & kitchen,brand d,102.77,201.63,49.03,98.86,mid Range,high margin
+P0252,brand d do,electronics,brand c,196.57,231.15,14.96,34.58000000000001,mid Range,medium margin
+P0253,brand b someone,electronics,brand b,142.99,284.82,49.8,141.82999999999998,mid Range,high margin
+P0254,brand b least,home & kitchen,brand c,184.0,266.56,30.97,82.56,mid Range,high margin
+P0255,brand c exactly,electronics,brand c,17.85,21.15,15.6,3.299999999999997,budget,medium margin
+P0256,brand d now,home & kitchen,brand c,146.13,247.09,40.86,100.96000000000001,mid Range,high margin
+P0257,brand b mean,home & kitchen,brand a,118.63,145.59,18.52,26.960000000000008,mid Range,medium margin
+P0258,brand c rise,home & kitchen,brand d,30.15,52.4,42.46,22.25,budget,high margin
+P0259,brand a current,home & kitchen,brand d,130.48,182.1,28.35,51.620000000000005,mid Range,high margin
+P0260,brand b thought,electronics,brand d,104.16,116.29,10.43,12.13000000000001,mid Range,medium margin
+P0261,brand c serve,apparel,brand b,71.64,128.2,44.12,56.55999999999999,mid Range,high margin
+P0262,brand b speak,apparel,brand b,35.21,48.1,26.8,12.89,budget,high margin
+P0263,brand a candidate,electronics,brand c,175.9,291.33,39.62,115.42999999999998,mid Range,high margin
+P0264,brand d pretty,apparel,brand b,40.26,69.39,41.98,29.130000000000003,budget,high margin
+P0265,brand b line,personal care,brand a,85.12,145.45,41.48,60.329999999999984,mid Range,high margin
+P0266,brand b often,personal care,brand c,151.72,273.92,44.61,122.20000000000002,mid Range,high margin
+P0267,brand b edge,apparel,brand c,193.29,349.07,44.63,155.78,mid Range,high margin
+P0268,brand b reason,home & kitchen,brand d,95.03,128.63,26.12,33.599999999999994,mid Range,high margin
+P0269,brand d give,personal care,brand b,164.29,299.19,45.09,134.9,mid Range,high margin
+P0270,brand b person,home & kitchen,brand a,130.03,245.33,47.0,115.30000000000001,mid Range,high margin
+P0271,brand a how,electronics,brand c,21.36,26.58,19.64,5.219999999999999,budget,medium margin
+P0272,brand d political,apparel,brand d,22.88,43.92,47.91,21.040000000000003,budget,high margin
+P0273,brand d continue,home & kitchen,brand a,85.9,125.14,31.36,39.239999999999995,mid Range,high margin
+P0274,brand c upon,apparel,brand d,198.93,285.95,30.43,87.01999999999998,mid Range,high margin
+P0275,brand a similar,home & kitchen,brand a,168.64,284.15,40.65,115.50999999999999,mid Range,high margin
+P0276,brand b near,apparel,brand a,60.94,112.54,45.85,51.60000000000001,mid Range,high margin
+P0277,brand b management,personal care,unknown,124.99,239.39,47.79,114.39999999999999,mid Range,high margin
+P0278,brand a tough,home & kitchen,brand b,167.82,267.49,37.26,99.67000000000002,mid Range,high margin
+P0279,brand d significant,electronics,brand c,51.34,62.1,17.33,10.759999999999998,budget,medium margin
+P0280,brand b itself,personal care,brand d,17.25,31.96,46.03,14.71,budget,high margin
+P0281,brand d force,electronics,brand b,145.12,197.67,26.58,52.54999999999998,mid Range,high margin
+P0282,brand a where,home & kitchen,brand b,116.28,147.51,21.17,31.22999999999999,mid Range,medium margin
+P0283,brand a outside,home & kitchen,brand a,190.91,303.48,37.09,112.57000000000002,mid Range,high margin
+P0284,brand a become,personal care,brand d,13.49,19.54,30.96,6.049999999999999,budget,high margin
+P0285,brand c everybody,home & kitchen,brand a,74.63,86.63,13.85,12.0,budget,medium margin
+P0286,brand b film,electronics,brand c,31.01,43.94,29.43,12.929999999999996,budget,high margin
+P0287,brand c arm,apparel,brand d,196.26,300.41,34.67,104.15000000000003,mid Range,high margin
+P0288,brand b owner,apparel,brand a,144.63,281.92,48.7,137.29000000000002,mid Range,high margin
+P0289,brand a toward,home & kitchen,brand b,13.54,17.32,21.82,3.780000000000001,budget,medium margin
+P0290,brand a ball,home & kitchen,brand c,105.5,209.97,49.75,104.47,mid Range,high margin
+P0291,brand d memory,home & kitchen,brand a,151.89,193.2,21.38,41.31,mid Range,medium margin
+P0292,brand c use,electronics,brand c,58.28,106.04,45.04,47.760000000000005,mid Range,high margin
+P0293,brand d president,personal care,brand d,179.45,259.84,30.94,80.38999999999999,mid Range,high margin
+P0294,brand b whatever,personal care,brand d,76.63,139.28,44.98,62.650000000000006,mid Range,high margin
+P0295,brand c right,electronics,brand d,20.39,33.48,39.1,13.089999999999996,budget,high margin
+P0296,brand b popular,home & kitchen,brand c,25.01,34.89,28.32,9.879999999999999,budget,high margin
+P0297,brand c staff,home & kitchen,brand d,122.51,181.74,32.59,59.230000000000004,mid Range,high margin
+P0298,brand d open,home & kitchen,brand d,13.26,24.97,46.9,11.709999999999999,budget,high margin
+P0299,brand c involve,personal care,brand c,129.7,235.06,44.82,105.36000000000001,mid Range,high margin
+P0300,brand a still,electronics,brand d,75.85,138.12,45.08,62.27000000000001,mid Range,high margin
+P0301,brand b those,electronics,brand b,170.49,291.59,41.53,121.09999999999997,mid Range,high margin
+P0302,brand d player,electronics,brand b,18.11,32.61,44.46,14.5,budget,high margin
+P0303,brand c blood,home & kitchen,brand d,190.15,214.71,11.44,24.560000000000002,mid Range,medium margin
+P0304,brand b treatment,personal care,brand c,77.54,138.55,44.03,61.010000000000005,mid Range,high margin
+P0305,brand b best,home & kitchen,brand d,66.31,89.57,25.97,23.25999999999999,budget,high margin
+P0306,brand a federal,electronics,brand b,102.31,148.17,30.95,45.859999999999985,mid Range,high margin
+P0307,brand a him,home & kitchen,brand c,142.29,184.0,22.67,41.71000000000001,mid Range,medium margin
+P0308,brand c adult,personal care,brand b,28.91,53.99,46.45,25.080000000000002,budget,high margin
+P0309,brand d partner,apparel,brand d,199.47,364.92,45.34,165.45000000000002,mid Range,high margin
+P0310,brand c policy,home & kitchen,brand a,112.25,152.81,26.54,40.56,mid Range,high margin
+P0311,brand c sign,apparel,brand b,159.77,248.9,35.81,89.13,mid Range,high margin
+P0312,brand a already,apparel,brand b,51.16,79.02,35.26,27.86,budget,high margin
+P0313,brand c trial,home & kitchen,brand d,161.71,258.17,37.36,96.46000000000001,mid Range,high margin
+P0314,brand a check,electronics,brand c,82.64,144.23,42.7,61.58999999999999,mid Range,high margin
+P0315,brand d gas,personal care,brand d,165.55,193.09,14.26,27.539999999999992,mid Range,medium margin
+P0316,brand c start,electronics,brand d,95.84,150.05,36.13,54.21000000000001,mid Range,high margin
+P0317,brand b none,apparel,brand b,89.36,171.54,47.91,82.17999999999999,mid Range,high margin
+P0318,brand a mean,electronics,brand b,64.3,80.1,19.73,15.799999999999997,budget,medium margin
+P0319,brand b role,home & kitchen,brand c,169.96,225.29,24.56,55.329999999999984,mid Range,medium margin
+P0320,brand c summer,apparel,brand c,124.81,147.79,15.55,22.97999999999999,mid Range,medium margin
+P0321,brand b usually,apparel,unknown,133.45,233.35,42.81,99.9,mid Range,high margin
+P0322,brand c tree,electronics,brand a,20.84,40.71,48.81,19.87,budget,high margin
+P0323,brand c rate,apparel,unknown,125.53,141.5,11.29,15.969999999999999,mid Range,medium margin
+P0324,brand c somebody,home & kitchen,brand d,52.75,96.35,45.25,43.599999999999994,budget,high margin
+P0325,brand d religious,home & kitchen,brand d,19.23,22.19,13.34,2.960000000000001,budget,medium margin
+P0326,brand d half,personal care,brand d,95.57,134.39,28.89,38.81999999999999,mid Range,high margin
+P0327,brand b head,home & kitchen,brand c,148.17,277.77,46.66,129.6,mid Range,high margin
+P0328,brand d worry,apparel,brand c,105.42,126.04,16.36,20.620000000000005,mid Range,medium margin
+P0329,brand b build,personal care,brand a,57.16,75.63,24.42,18.47,budget,medium margin
+P0330,brand a trouble,electronics,brand c,189.35,355.55,46.74,166.20000000000002,mid Range,high margin
+P0331,brand d machine,apparel,brand b,163.63,317.5,48.46,153.87,mid Range,high margin
+P0332,brand c number,apparel,unknown,102.16,159.7,36.03,57.53999999999999,mid Range,high margin
+P0333,brand d something,home & kitchen,brand d,9.52,18.57,48.73,9.05,budget,high margin
+P0334,brand d while,apparel,brand b,118.75,135.83,12.57,17.080000000000013,mid Range,medium margin
+P0335,brand c environment,personal care,brand d,60.72,67.24,9.7,6.519999999999996,budget,low margin
+P0336,brand a feel,personal care,brand b,177.08,310.73,43.01,133.65,mid Range,high margin
+P0337,brand d turn,home & kitchen,brand a,83.11,134.08,38.01,50.97000000000001,mid Range,high margin
+P0338,brand b read,home & kitchen,brand c,19.34,30.05,35.64,10.71,budget,high margin
+P0339,brand c lawyer,electronics,brand b,195.14,283.83,31.25,88.69,mid Range,high margin
+P0340,brand c group,home & kitchen,brand b,43.82,68.28,35.82,24.46,budget,high margin
+P0341,brand a now,electronics,brand a,31.72,44.4,28.56,12.68,budget,high margin
+P0342,brand d church,personal care,unknown,123.22,192.71,36.06,69.49000000000001,mid Range,high margin
+P0343,brand c computer,home & kitchen,brand b,81.63,135.09,39.57,53.46000000000001,mid Range,high margin
+P0344,brand c including,home & kitchen,unknown,143.2,196.16,27.0,52.96000000000001,mid Range,high margin
+P0345,brand a model,home & kitchen,brand c,136.39,270.31,49.54,133.92000000000002,mid Range,high margin
+P0346,brand c and,electronics,brand d,56.78,95.96,40.83,39.17999999999999,budget,high margin
+P0347,brand b camera,electronics,brand d,38.25,63.73,39.98,25.479999999999997,budget,high margin
+P0348,brand d sport,apparel,brand b,11.16,21.8,48.81,10.64,budget,high margin
+P0349,brand a base,apparel,brand a,91.0,134.4,32.29,43.400000000000006,mid Range,high margin
+P0350,brand d either,apparel,brand d,102.85,169.74,39.41,66.89000000000001,mid Range,high margin
+P0351,brand d debate,electronics,brand b,106.14,170.33,37.69,64.19000000000001,mid Range,high margin
+P0352,brand d place,personal care,brand c,191.55,289.95,33.94,98.39999999999998,mid Range,high margin
+P0353,brand c might,home & kitchen,brand c,123.96,157.81,21.45,33.85000000000001,mid Range,medium margin
+P0354,brand b memory,home & kitchen,unknown,48.85,96.51,49.38,47.660000000000004,budget,high margin
+P0355,brand c part,home & kitchen,unknown,139.6,215.0,35.07,75.4,mid Range,high margin
+P0356,brand d interest,home & kitchen,brand c,61.12,98.78,38.13,37.660000000000004,budget,high margin
+P0357,brand d animal,personal care,brand c,191.15,348.69,45.18,157.54,mid Range,high margin
+P0358,brand c fight,electronics,unknown,191.29,224.02,14.61,32.73000000000002,mid Range,medium margin
+P0359,brand d machine,home & kitchen,brand d,46.73,86.22,45.8,39.49,budget,high margin
+P0360,brand c table,home & kitchen,brand b,26.3,46.47,43.4,20.169999999999998,budget,high margin
+P0361,brand b mrs,apparel,brand a,135.62,214.0,36.63,78.38,mid Range,high margin
+P0362,brand b understand,electronics,unknown,85.59,149.41,42.71,63.81999999999999,mid Range,high margin
+P0363,brand a benefit,apparel,brand a,193.08,382.32,49.5,189.23999999999998,mid Range,high margin
+P0364,brand b evidence,personal care,brand d,98.1,125.52,21.85,27.42,mid Range,medium margin
+P0365,brand c through,home & kitchen,brand c,130.95,251.05,47.84,120.10000000000002,mid Range,high margin
+P0366,brand a yeah,apparel,brand a,183.08,230.23,20.48,47.14999999999998,mid Range,medium margin
+P0367,brand b why,electronics,unknown,158.65,201.12,21.12,42.47,mid Range,medium margin
+P0368,brand c major,electronics,brand a,63.19,103.79,39.12,40.60000000000001,mid Range,high margin
+P0369,brand c piece,home & kitchen,brand d,197.87,314.41,37.07,116.54000000000002,mid Range,high margin
+P0370,brand d economy,apparel,brand d,58.2,106.39,45.3,48.19,mid Range,high margin
+P0371,brand c range,apparel,brand d,131.42,229.56,42.75,98.14000000000001,mid Range,high margin
+P0372,brand a or,home & kitchen,brand c,115.72,206.16,43.87,90.44,mid Range,high margin
+P0373,brand b environment,personal care,brand d,105.48,124.26,15.11,18.78,mid Range,medium margin
+P0374,brand a generation,apparel,brand b,98.1,190.53,48.51,92.43,mid Range,high margin
+P0375,brand a research,home & kitchen,brand d,50.93,90.57,43.77,39.63999999999999,budget,high margin
+P0376,brand c hard,home & kitchen,brand a,56.0,79.72,29.75,23.72,budget,high margin
+P0377,brand b set,electronics,unknown,95.75,119.09,19.6,23.340000000000003,mid Range,medium margin
+P0378,brand c himself,electronics,brand c,76.67,99.58,23.01,22.909999999999997,budget,medium margin
+P0379,brand b outside,personal care,brand b,93.72,186.5,49.75,92.78,mid Range,high margin
+P0380,brand c raise,personal care,unknown,152.68,278.15,45.11,125.46999999999997,mid Range,high margin
+P0381,brand b someone,apparel,brand a,107.47,169.3,36.52,61.83000000000001,mid Range,high margin
+P0382,brand c family,electronics,brand a,17.04,27.14,37.21,10.100000000000001,budget,high margin
+P0383,brand b finally,apparel,brand b,68.98,108.18,36.24,39.2,mid Range,high margin
+P0384,brand a commercial,apparel,brand d,22.73,35.44,35.86,12.709999999999997,budget,high margin
+P0385,brand a door,personal care,brand b,105.08,158.79,33.82,53.709999999999994,mid Range,high margin
+P0386,brand a recent,personal care,brand c,146.04,212.69,31.34,66.65,mid Range,high margin
+P0387,brand a happen,apparel,brand a,13.83,19.5,29.08,5.67,budget,high margin
+P0388,brand a scene,electronics,brand a,197.3,300.86,34.42,103.56,mid Range,high margin
+P0389,brand c occur,personal care,brand b,154.95,277.24,44.11,122.29000000000002,mid Range,high margin
+P0390,brand d minute,home & kitchen,unknown,92.46,178.02,48.06,85.56000000000002,mid Range,high margin
+P0391,brand d different,personal care,brand a,138.13,234.22,41.03,96.09,mid Range,high margin
+P0392,brand b must,home & kitchen,brand a,39.8,63.02,36.85,23.220000000000006,budget,high margin
+P0393,brand b put,apparel,brand a,152.45,301.95,49.51,149.5,mid Range,high margin
+P0394,brand d set,personal care,brand d,165.56,219.0,24.4,53.44,mid Range,medium margin
+P0395,brand c charge,apparel,brand c,41.75,78.81,47.02,37.06,budget,high margin
+P0396,brand a power,electronics,brand d,124.91,242.65,48.52,117.74000000000001,mid Range,high margin
+P0397,brand a officer,apparel,brand b,18.12,29.62,38.83,11.5,budget,high margin
+P0398,brand d always,electronics,brand b,149.41,218.44,31.6,69.03,mid Range,high margin
+P0399,brand b figure,apparel,brand a,32.33,64.47,49.85,32.14,budget,high margin
+P0400,brand b window,home & kitchen,brand c,51.2,96.7,47.05,45.5,budget,high margin
+P0401,brand b while,personal care,brand c,58.66,93.92,37.54,35.260000000000005,budget,high margin
+P0402,brand b few,personal care,brand d,14.14,19.94,29.09,5.800000000000001,budget,high margin
+P0403,brand d official,home & kitchen,brand d,84.61,115.91,27.0,31.299999999999997,mid Range,high margin
+P0404,brand b recognize,personal care,brand b,170.62,233.86,27.04,63.24000000000001,mid Range,high margin
+P0405,brand b charge,personal care,brand a,114.67,226.02,49.27,111.35000000000001,mid Range,high margin
+P0406,brand b knowledge,personal care,brand b,54.72,76.46,28.43,21.739999999999995,budget,high margin
+P0407,brand a purpose,personal care,brand c,23.03,40.35,42.92,17.32,budget,high margin
+P0408,brand b traditional,electronics,brand c,78.55,129.17,39.19,50.61999999999999,mid Range,high margin
+P0409,brand a technology,electronics,brand b,161.91,263.72,38.61,101.81000000000003,mid Range,high margin
+P0410,brand b much,personal care,brand b,174.55,244.31,28.55,69.75999999999999,mid Range,high margin
+P0411,brand a policy,apparel,unknown,192.61,232.21,17.05,39.599999999999994,mid Range,medium margin
+P0412,brand d i,apparel,brand b,82.34,108.31,23.98,25.97,mid Range,medium margin
+P0413,brand c sell,home & kitchen,brand d,95.92,161.51,40.61,65.58999999999999,mid Range,high margin
+P0414,brand c both,home & kitchen,brand c,105.0,162.49,35.38,57.49000000000001,mid Range,high margin
+P0415,brand a analysis,personal care,brand c,183.29,262.77,30.25,79.47999999999999,mid Range,high margin
+P0416,brand d central,electronics,brand b,149.54,166.68,10.28,17.140000000000015,mid Range,medium margin
+P0417,brand d its,home & kitchen,brand b,43.26,56.54,23.49,13.280000000000001,budget,medium margin
+P0418,brand b including,personal care,brand c,55.18,101.5,45.64,46.32,mid Range,high margin
+P0419,brand d build,personal care,brand b,147.89,209.55,29.42,61.660000000000025,mid Range,high margin
+P0420,brand b particular,personal care,brand b,183.8,291.86,37.02,108.06,mid Range,high margin
+P0421,brand a necessary,electronics,brand a,189.31,322.09,41.22,132.77999999999997,mid Range,high margin
+P0422,brand a rate,personal care,brand b,169.3,221.49,23.56,52.19,mid Range,medium margin
+P0423,brand b community,electronics,unknown,103.62,148.79,30.36,45.16999999999999,mid Range,high margin
+P0424,brand d first,personal care,brand a,6.29,10.04,37.35,3.749999999999999,budget,high margin
+P0425,brand a step,electronics,brand c,109.47,148.66,26.36,39.19,mid Range,high margin
+P0426,brand d author,apparel,brand a,184.02,289.27,36.38,105.24999999999997,mid Range,high margin
+P0427,brand b author,apparel,unknown,163.97,219.82,25.41,55.849999999999994,mid Range,high margin
+P0428,brand d less,electronics,brand c,192.06,290.61,33.91,98.55000000000001,mid Range,high margin
+P0429,brand b watch,apparel,brand c,138.39,257.83,46.33,119.44,mid Range,high margin
+P0430,brand a place,electronics,brand d,78.96,126.13,37.4,47.17,mid Range,high margin
+P0431,brand a agree,electronics,brand b,21.12,39.3,46.26,18.179999999999996,budget,high margin
+P0432,brand c movement,electronics,brand a,49.8,95.18,47.68,45.38000000000001,budget,high margin
+P0433,brand d determine,home & kitchen,brand a,185.21,317.82,41.72,132.60999999999999,mid Range,high margin
+P0434,brand c follow,electronics,brand b,186.11,257.4,27.7,71.28999999999996,mid Range,high margin
+P0435,brand b team,apparel,brand d,186.13,254.88,26.97,68.75,mid Range,high margin
+P0436,brand b pay,personal care,brand c,79.85,141.0,43.37,61.150000000000006,mid Range,high margin
+P0437,brand a many,home & kitchen,brand a,24.05,31.48,23.6,7.43,budget,medium margin
+P0438,brand a raise,home & kitchen,brand d,193.94,270.3,28.25,76.36000000000001,mid Range,high margin
+P0439,brand c address,personal care,unknown,49.49,79.07,37.41,29.57999999999999,budget,high margin
+P0440,brand d return,personal care,brand b,137.54,233.08,40.99,95.54000000000002,mid Range,high margin
+P0441,brand a remember,home & kitchen,brand b,144.06,169.1,14.81,25.039999999999992,mid Range,medium margin
+P0442,brand b young,personal care,brand b,149.23,206.69,27.8,57.46000000000001,mid Range,high margin
+P0443,brand a bed,electronics,brand a,188.88,283.37,33.35,94.49000000000001,mid Range,high margin
+P0444,brand c choice,electronics,brand b,22.02,32.76,32.78,10.739999999999998,budget,high margin
+P0445,brand d show,electronics,brand a,22.48,35.94,37.45,13.459999999999997,budget,high margin
+P0446,brand c whole,personal care,brand a,61.91,89.71,30.99,27.799999999999997,budget,high margin
+P0447,brand a about,apparel,brand b,138.64,173.65,20.16,35.01000000000002,mid Range,medium margin
+P0448,brand c letter,home & kitchen,brand c,101.16,117.04,13.57,15.88000000000001,mid Range,medium margin
+P0449,brand d what,home & kitchen,brand d,63.45,114.49,44.58,51.03999999999999,mid Range,high margin
+P0450,brand c base,home & kitchen,brand b,145.58,225.1,35.33,79.51999999999998,mid Range,high margin
+P0451,brand b sell,personal care,brand a,31.42,34.75,9.58,3.3299999999999983,budget,low margin
+P0452,brand d happen,home & kitchen,brand d,161.79,225.95,28.4,64.16,mid Range,high margin
+P0453,brand c down,personal care,brand b,63.58,104.45,39.13,40.870000000000005,mid Range,high margin
+P0454,brand b performance,personal care,brand c,39.64,57.81,31.43,18.17,budget,high margin
+P0455,brand c back,home & kitchen,brand d,193.71,349.41,44.56,155.70000000000002,mid Range,high margin
+P0456,brand c leg,personal care,brand c,164.22,238.72,31.21,74.5,mid Range,high margin
+P0457,brand a resource,apparel,brand b,137.93,220.01,37.31,82.07999999999998,mid Range,high margin
+P0458,brand d force,apparel,brand d,160.55,296.72,45.89,136.17000000000002,mid Range,high margin
+P0459,brand a me,personal care,brand d,32.14,44.11,27.14,11.969999999999999,budget,high margin
+P0460,brand c miss,apparel,brand d,158.87,185.33,14.28,26.460000000000008,mid Range,medium margin
+P0461,brand d training,personal care,brand d,111.01,201.11,44.8,90.10000000000001,mid Range,high margin
+P0462,brand c ever,electronics,brand a,154.95,262.15,40.89,107.19999999999999,mid Range,high margin
+P0463,brand c front,apparel,brand a,114.83,192.98,40.5,78.14999999999999,mid Range,high margin
+P0464,brand d receive,home & kitchen,brand d,25.66,30.5,15.87,4.84,budget,medium margin
+P0465,brand b exist,apparel,brand d,77.95,118.23,34.07,40.28,mid Range,high margin
+P0466,brand b ok,home & kitchen,brand a,99.14,135.41,26.79,36.269999999999996,mid Range,high margin
+P0467,brand a performance,electronics,brand b,72.92,102.73,29.02,29.810000000000002,mid Range,high margin
+P0468,brand b forget,personal care,brand c,97.85,146.22,33.08,48.370000000000005,mid Range,high margin
+P0469,brand d keep,home & kitchen,brand a,63.55,116.24,45.33,52.69,mid Range,high margin
+P0470,brand a site,electronics,brand c,131.35,224.53,41.5,93.18,mid Range,high margin
+P0471,brand b back,apparel,brand b,112.62,157.43,28.46,44.81,mid Range,high margin
+P0472,brand d wear,personal care,brand b,160.56,267.62,40.0,107.06,mid Range,high margin
+P0473,brand b ever,personal care,brand d,10.69,17.67,39.5,6.980000000000002,budget,high margin
+P0474,brand b condition,personal care,brand d,80.82,140.16,42.34,59.34,mid Range,high margin
+P0475,brand b particular,home & kitchen,brand a,117.58,213.94,45.04,96.36,mid Range,high margin
+P0476,brand b course,home & kitchen,brand c,43.43,52.23,16.85,8.799999999999997,budget,medium margin
+P0477,brand d attorney,home & kitchen,brand d,124.21,202.25,38.59,78.04,mid Range,high margin
+P0478,brand c window,home & kitchen,brand d,125.39,229.76,45.43,104.36999999999999,mid Range,high margin
+P0479,brand c bed,electronics,brand b,66.07,86.86,23.94,20.790000000000006,budget,medium margin
+P0480,brand a glass,apparel,brand c,140.22,218.71,35.89,78.49000000000001,mid Range,high margin
+P0481,brand d according,apparel,brand d,87.49,134.56,34.98,47.07000000000001,mid Range,high margin
+P0482,brand b reach,apparel,brand d,61.32,77.78,21.16,16.46,budget,medium margin
+P0483,brand d buy,electronics,brand c,190.61,292.81,34.9,102.19999999999999,mid Range,high margin
+P0484,brand b effect,personal care,brand d,84.78,130.78,35.17,46.0,mid Range,high margin
+P0485,brand d political,personal care,brand b,21.12,23.82,11.34,2.6999999999999993,budget,medium margin
+P0486,brand b into,home & kitchen,brand a,58.6,92.81,36.86,34.21,budget,high margin
+P0487,brand b will,personal care,brand d,112.2,134.85,16.8,22.64999999999999,mid Range,medium margin
+P0488,brand a executive,home & kitchen,brand c,110.7,197.17,43.86,86.46999999999998,mid Range,high margin
+P0489,brand d girl,apparel,brand d,24.97,46.12,45.86,21.15,budget,high margin
+P0490,brand b five,home & kitchen,brand a,92.7,131.05,29.26,38.35000000000001,mid Range,high margin
+P0491,brand a chance,personal care,brand a,156.25,205.2,23.85,48.94999999999999,mid Range,medium margin
+P0492,brand c administration,personal care,brand b,125.15,226.07,44.64,100.91999999999999,mid Range,high margin
+P0493,brand b lay,electronics,brand c,108.79,178.11,38.92,69.32000000000001,mid Range,high margin
+P0494,brand b reveal,home & kitchen,brand c,61.42,82.34,25.41,20.92,budget,high margin
+P0495,brand a never,apparel,brand d,184.16,367.07,49.83,182.91,mid Range,high margin
+P0496,brand b where,apparel,brand b,33.52,46.59,28.05,13.07,budget,high margin
+P0497,brand b country,personal care,brand d,32.72,54.61,40.08,21.89,budget,high margin
+P0498,brand d south,personal care,brand d,19.73,35.81,44.9,16.080000000000002,budget,high margin
+P0499,brand a author,personal care,brand c,140.47,265.43,47.08,124.96000000000001,mid Range,high margin
+P0500,brand d what,personal care,brand c,118.48,222.98,46.87,104.49999999999999,mid Range,high margin
+P0501,brand a book,personal care,brand c,170.77,310.14,44.94,139.36999999999998,mid Range,high margin
+P0502,brand d hard,apparel,brand d,165.85,256.28,35.29,90.42999999999998,mid Range,high margin
+P0503,brand c entire,home & kitchen,brand c,111.73,136.04,17.87,24.309999999999988,mid Range,medium margin
+P0504,brand d nice,home & kitchen,brand a,13.96,23.22,39.88,9.259999999999998,budget,high margin
+P0505,brand d again,electronics,brand a,186.24,231.34,19.5,45.099999999999994,mid Range,medium margin
+P0506,brand d suggest,electronics,brand d,44.45,76.44,41.85,31.989999999999995,budget,high margin
+P0507,brand b prepare,home & kitchen,brand b,175.51,331.53,47.06,156.01999999999998,mid Range,high margin
+P0508,brand a scientist,home & kitchen,brand c,21.07,35.78,41.11,14.71,budget,high margin
+P0509,brand b offer,electronics,brand d,126.99,222.66,42.97,95.67,mid Range,high margin
+P0510,brand b structure,personal care,brand a,142.22,156.58,9.17,14.360000000000014,mid Range,low margin
+P0511,brand d certainly,electronics,brand b,120.77,189.31,36.21,68.54,mid Range,high margin
+P0512,brand d once,electronics,brand a,140.64,258.13,45.52,117.49000000000001,mid Range,high margin
+P0513,brand d yet,apparel,brand d,18.81,27.18,30.79,8.370000000000001,budget,high margin
+P0514,brand a federal,electronics,brand c,76.67,104.99,26.97,28.319999999999993,mid Range,high margin
+P0515,brand d range,apparel,brand b,18.34,29.47,37.77,11.129999999999999,budget,high margin
+P0516,brand b great,personal care,brand c,145.87,242.91,39.95,97.03999999999999,mid Range,high margin
+P0517,brand b police,personal care,brand d,172.69,203.43,15.11,30.74000000000001,mid Range,medium margin
+P0518,brand a war,apparel,brand a,119.97,173.43,30.83,53.46000000000001,mid Range,high margin
+P0519,brand d cup,home & kitchen,brand b,53.32,89.59,40.48,36.27,budget,high margin
+P0520,brand b blue,home & kitchen,brand a,170.34,288.31,40.92,117.97,mid Range,high margin
+P0521,brand c head,apparel,brand b,150.83,206.03,26.79,55.19999999999999,mid Range,high margin
+P0522,brand a citizen,apparel,brand d,80.25,105.69,24.07,25.439999999999998,mid Range,medium margin
+P0523,brand a director,electronics,unknown,187.12,228.06,17.95,40.94,mid Range,medium margin
+P0524,brand d see,home & kitchen,brand b,153.73,301.16,48.95,147.43000000000004,mid Range,high margin
+P0525,brand a democratic,electronics,brand a,7.69,9.95,22.71,2.259999999999999,budget,medium margin
+P0526,brand a arrive,personal care,brand c,127.57,197.85,35.52,70.28,mid Range,high margin
+P0527,brand d decide,personal care,brand d,21.07,33.35,36.82,12.280000000000001,budget,high margin
+P0528,brand b evening,home & kitchen,brand a,65.43,102.08,35.9,36.64999999999999,mid Range,high margin
+P0529,brand b hope,apparel,brand c,81.19,135.66,40.15,54.47,mid Range,high margin
+P0530,brand a firm,home & kitchen,brand d,147.34,274.32,46.29,126.97999999999999,mid Range,high margin
+P0531,brand a week,apparel,brand a,185.3,223.17,16.97,37.869999999999976,mid Range,medium margin
+P0532,brand a candidate,home & kitchen,brand b,28.29,49.14,42.43,20.85,budget,high margin
+P0533,brand a become,apparel,brand d,190.84,299.75,36.33,108.91,mid Range,high margin
+P0534,brand c region,apparel,brand c,29.75,53.64,44.54,23.89,budget,high margin
+P0535,brand c produce,electronics,brand a,70.33,104.54,32.72,34.21000000000001,mid Range,high margin
+P0536,brand a live,home & kitchen,brand a,101.75,158.7,35.89,56.94999999999999,mid Range,high margin
+P0537,brand a someone,personal care,brand b,76.7,101.98,24.79,25.28,mid Range,medium margin
+P0538,brand a read,electronics,brand b,149.45,164.74,9.28,15.29000000000002,mid Range,low margin
+P0539,brand a painting,apparel,brand a,96.99,140.12,30.78,43.13000000000001,mid Range,high margin
+P0540,brand b as,apparel,brand a,112.81,216.88,47.99,104.07,mid Range,high margin
+P0541,brand d tough,apparel,brand c,53.41,102.78,48.03,49.370000000000005,mid Range,high margin
+P0542,brand c drop,home & kitchen,brand a,116.45,140.61,17.18,24.16000000000001,mid Range,medium margin
+P0543,brand a look,apparel,brand b,161.85,320.99,49.58,159.14000000000001,mid Range,high margin
+P0544,brand d available,electronics,brand d,173.88,312.32,44.33,138.44,mid Range,high margin
+P0545,brand c as,home & kitchen,brand a,112.85,124.94,9.68,12.090000000000003,mid Range,low margin
+P0546,brand b hospital,home & kitchen,brand c,149.22,196.72,24.15,47.5,mid Range,medium margin
+P0547,brand c dark,personal care,brand b,147.83,235.33,37.18,87.5,mid Range,high margin
+P0548,brand b note,apparel,brand a,186.82,209.52,10.83,22.700000000000017,mid Range,medium margin
+P0549,brand c drop,electronics,brand c,5.29,8.95,40.89,3.6599999999999993,budget,high margin
+P0550,brand c wish,electronics,brand b,108.31,142.36,23.92,34.05000000000001,mid Range,medium margin
+P0551,brand d condition,electronics,brand b,143.77,170.18,15.52,26.409999999999997,mid Range,medium margin
+P0552,brand b president,personal care,brand c,94.4,167.38,43.6,72.97999999999999,mid Range,high margin
+P0553,brand a shoulder,apparel,brand d,19.59,31.56,37.93,11.969999999999999,budget,high margin
+P0554,brand d simple,apparel,brand b,61.88,115.46,46.41,53.57999999999999,mid Range,high margin
+P0555,brand d institution,home & kitchen,brand c,93.29,122.23,23.68,28.939999999999998,mid Range,medium margin
+P0556,brand b agent,apparel,brand a,35.31,44.06,19.86,8.75,budget,medium margin
+P0557,brand d name,home & kitchen,brand d,28.54,40.6,29.7,12.060000000000002,budget,high margin
+P0558,brand b specific,personal care,brand c,95.35,178.04,46.44,82.69,mid Range,high margin
+P0559,brand a character,apparel,brand c,166.15,286.97,42.1,120.82000000000002,mid Range,high margin
+P0560,brand a effort,apparel,brand c,33.92,59.02,42.53,25.1,budget,high margin
+P0561,brand c several,personal care,brand a,137.05,182.85,25.05,45.79999999999998,mid Range,high margin
+P0562,brand b charge,electronics,brand d,171.65,274.7,37.51,103.04999999999998,mid Range,high margin
+P0563,brand b require,electronics,brand d,24.87,45.12,44.88,20.249999999999996,budget,high margin
+P0564,brand a eat,electronics,brand a,166.92,331.22,49.6,164.30000000000004,mid Range,high margin
+P0565,brand b sister,apparel,brand d,77.59,129.36,40.02,51.77000000000001,mid Range,high margin
+P0566,brand a now,home & kitchen,brand a,9.25,10.71,13.63,1.4600000000000009,budget,medium margin
+P0567,brand d them,apparel,brand a,181.49,335.11,45.84,153.62,mid Range,high margin
+P0568,brand c person,electronics,brand a,188.74,216.22,12.71,27.47999999999999,mid Range,medium margin
+P0569,brand d loss,personal care,brand d,10.75,18.44,41.7,7.690000000000001,budget,high margin
+P0570,brand b marriage,home & kitchen,unknown,182.12,245.4,25.79,63.28,mid Range,high margin
+P0571,brand d enough,apparel,brand a,124.75,206.5,39.59,81.75,mid Range,high margin
+P0572,brand c responsibility,personal care,brand d,177.14,271.22,34.69,94.08000000000004,mid Range,high margin
+P0573,brand a think,home & kitchen,brand d,31.76,40.64,21.85,8.879999999999999,budget,medium margin
+P0574,brand b little,electronics,brand d,157.47,224.11,29.74,66.64000000000001,mid Range,high margin
+P0575,brand d help,home & kitchen,brand c,80.73,101.87,20.75,21.14,mid Range,medium margin
+P0576,brand c floor,apparel,brand a,179.67,323.53,44.47,143.85999999999999,mid Range,high margin
+P0577,brand a only,personal care,brand c,154.53,309.01,49.99,154.48,mid Range,high margin
+P0578,brand b recent,electronics,brand b,133.09,178.32,25.36,45.22999999999999,mid Range,high margin
+P0579,brand a see,apparel,brand d,74.19,137.64,46.1,63.44999999999999,mid Range,high margin
+P0580,brand b foot,apparel,brand b,120.54,220.06,45.22,99.52,mid Range,high margin
+P0581,brand c quality,electronics,brand c,189.77,305.01,37.78,115.23999999999998,mid Range,high margin
+P0582,brand b name,personal care,brand c,39.23,44.49,11.82,5.260000000000005,budget,medium margin
+P0583,brand a history,apparel,brand b,8.89,13.6,34.63,4.709999999999999,budget,high margin
+P0584,brand c military,apparel,brand b,71.45,90.01,20.62,18.560000000000002,budget,medium margin
+P0585,brand c bill,electronics,brand a,33.8,58.62,42.34,24.82,budget,high margin
+P0586,brand b and,electronics,brand c,192.31,276.2,30.37,83.88999999999999,mid Range,high margin
+P0587,brand d offer,electronics,brand c,63.84,78.06,18.22,14.219999999999999,budget,medium margin
+P0588,brand b economy,personal care,brand d,131.59,165.38,20.43,33.78999999999999,mid Range,medium margin
+P0589,brand c today,apparel,brand b,78.78,138.7,43.2,59.91999999999999,mid Range,high margin
+P0590,brand c source,apparel,brand b,147.12,287.46,48.82,140.33999999999997,mid Range,high margin
+P0591,brand d them,electronics,brand b,122.47,236.24,48.16,113.77000000000001,mid Range,high margin
+P0592,brand b conference,electronics,brand d,32.43,57.43,43.53,25.0,budget,high margin
+P0593,brand b specific,home & kitchen,brand c,37.74,71.58,47.28,33.839999999999996,budget,high margin
+P0594,brand a and,home & kitchen,brand d,7.22,9.3,22.37,2.080000000000001,budget,medium margin
+P0595,brand a style,home & kitchen,brand c,158.47,277.06,42.8,118.59,mid Range,high margin
+P0596,brand a reveal,personal care,unknown,147.85,291.59,49.3,143.73999999999998,mid Range,high margin
+P0597,brand d owner,personal care,brand d,73.49,105.66,30.45,32.17,mid Range,high margin
+P0598,brand d interesting,apparel,unknown,93.0,169.19,45.03,76.19,mid Range,high margin
+P0599,brand a let,home & kitchen,brand a,67.15,131.38,48.89,64.22999999999999,mid Range,high margin
+P0600,brand a energy,home & kitchen,brand b,178.15,221.76,19.67,43.609999999999985,mid Range,medium margin
+P0601,brand a everything,electronics,brand c,120.84,199.66,39.48,78.82,mid Range,high margin
+P0602,brand d line,electronics,brand d,188.78,235.69,19.9,46.91,mid Range,medium margin
+P0603,brand d make,apparel,brand a,24.75,31.8,22.17,7.050000000000001,budget,medium margin
+P0604,brand b fact,personal care,brand c,133.82,183.02,26.88,49.20000000000002,mid Range,high margin
+P0605,brand a speak,electronics,brand d,116.5,216.21,46.12,99.71000000000001,mid Range,high margin
+P0606,brand b fight,electronics,brand c,5.74,6.77,15.21,1.0299999999999994,budget,medium margin
+P0607,brand d build,apparel,brand a,10.02,12.56,20.22,2.540000000000001,budget,medium margin
+P0608,brand c act,electronics,brand d,169.53,233.53,27.41,64.0,mid Range,high margin
+P0609,brand d movie,personal care,unknown,179.5,240.26,25.29,60.75999999999999,mid Range,high margin
+P0610,brand d education,apparel,brand c,177.67,254.51,30.19,76.84,mid Range,high margin
+P0611,brand d step,electronics,brand c,90.75,121.34,25.21,30.590000000000003,mid Range,high margin
+P0612,brand c easy,electronics,brand b,151.69,257.98,41.2,106.29000000000002,mid Range,high margin
+P0613,brand a day,home & kitchen,brand d,194.29,316.84,38.68,122.54999999999998,mid Range,high margin
+P0614,brand a well,personal care,brand d,193.3,332.16,41.81,138.86,mid Range,high margin
+P0615,brand d computer,apparel,brand d,63.28,92.09,31.28,28.810000000000002,budget,high margin
+P0616,brand a stock,apparel,brand a,190.1,285.94,33.52,95.84,mid Range,high margin
+P0617,brand b health,apparel,brand b,29.61,43.85,32.47,14.240000000000002,budget,high margin
+P0618,brand d page,apparel,brand b,167.65,223.33,24.93,55.68000000000001,mid Range,medium margin
+P0619,brand a themselves,electronics,brand d,113.49,181.23,37.38,67.74,mid Range,high margin
+P0620,brand c trade,personal care,brand a,158.38,263.03,39.79,104.64999999999998,mid Range,high margin
+P0621,brand d prepare,electronics,brand d,34.18,55.03,37.89,20.85,budget,high margin
+P0622,brand a staff,electronics,brand a,158.22,297.57,46.83,139.35,mid Range,high margin
+P0623,brand c cause,personal care,brand c,79.69,122.49,34.94,42.8,mid Range,high margin
+P0624,brand d theory,electronics,brand b,58.71,72.18,18.66,13.470000000000006,budget,medium margin
+P0625,brand d she,electronics,brand d,178.47,249.56,28.49,71.09,mid Range,high margin
+P0626,brand b public,electronics,brand d,184.56,352.02,47.57,167.45999999999998,mid Range,high margin
+P0627,brand a civil,home & kitchen,brand c,65.64,122.0,46.2,56.36,mid Range,high margin
+P0628,brand a culture,apparel,brand b,63.59,112.51,43.48,48.92,mid Range,high margin
+P0629,brand c probably,home & kitchen,brand d,122.97,145.15,15.28,22.180000000000007,mid Range,medium margin
+P0630,brand d partner,apparel,brand d,149.48,266.6,43.93,117.12000000000003,mid Range,high margin
+P0631,brand c family,electronics,brand b,17.8,30.95,42.49,13.149999999999999,budget,high margin
+P0632,brand d pattern,apparel,brand a,38.88,73.39,47.02,34.51,budget,high margin
+P0633,brand b should,electronics,brand b,11.45,13.12,12.73,1.67,budget,medium margin
+P0634,brand c quite,apparel,brand c,76.83,116.61,34.11,39.78,mid Range,high margin
+P0635,brand d door,electronics,brand a,52.18,80.35,35.06,28.169999999999995,budget,high margin
+P0636,brand d white,apparel,brand d,119.44,168.98,29.32,49.53999999999999,mid Range,high margin
+P0637,brand b involve,home & kitchen,brand a,60.59,87.73,30.94,27.14,budget,high margin
+P0638,brand b society,apparel,brand b,131.24,224.41,41.52,93.16999999999999,mid Range,high margin
+P0639,brand c fish,personal care,brand a,173.6,342.07,49.25,168.47,mid Range,high margin
+P0640,brand a sort,personal care,brand b,131.24,215.37,39.06,84.13,mid Range,high margin
+P0641,brand a activity,apparel,brand c,123.63,240.92,48.68,117.28999999999999,mid Range,high margin
+P0642,brand c level,personal care,brand d,171.06,258.83,33.91,87.76999999999998,mid Range,high margin
+P0643,brand b off,personal care,brand c,137.05,252.43,45.71,115.38,mid Range,high margin
+P0644,brand d nearly,electronics,brand a,104.75,177.67,41.04,72.91999999999999,mid Range,high margin
+P0645,brand c similar,home & kitchen,brand c,138.46,212.34,34.79,73.88,mid Range,high margin
+P0646,brand c today,home & kitchen,brand c,172.99,230.95,25.1,57.95999999999998,mid Range,high margin
+P0647,brand c almost,apparel,brand b,105.87,139.35,24.03,33.47999999999999,mid Range,medium margin
+P0648,brand a certainly,personal care,brand c,137.75,240.95,42.83,103.19999999999999,mid Range,high margin
+P0649,brand d reality,home & kitchen,brand c,181.85,266.25,31.7,84.4,mid Range,high margin
+P0650,brand a senior,apparel,brand c,146.68,190.7,23.08,44.01999999999998,mid Range,medium margin
+P0651,brand d board,home & kitchen,brand c,169.86,315.36,46.14,145.5,mid Range,high margin
+P0652,brand b product,home & kitchen,unknown,96.8,171.03,43.4,74.23,mid Range,high margin
+P0653,brand b method,home & kitchen,brand a,48.34,62.89,23.14,14.549999999999997,budget,medium margin
+P0654,brand c approach,personal care,brand c,77.48,126.06,38.54,48.58,mid Range,high margin
+P0655,brand d can,electronics,brand d,15.47,25.85,40.15,10.38,budget,high margin
+P0656,brand a score,personal care,brand b,102.59,192.95,46.83,90.35999999999999,mid Range,high margin
+P0657,brand d although,home & kitchen,brand d,15.54,29.04,46.49,13.5,budget,high margin
+P0658,brand b it,apparel,brand c,84.79,136.72,37.98,51.92999999999999,mid Range,high margin
+P0659,brand d writer,apparel,brand c,173.17,218.6,20.78,45.43000000000001,mid Range,medium margin
+P0660,brand a lose,personal care,brand c,128.05,161.23,20.58,33.17999999999998,mid Range,medium margin
+P0661,brand a day,electronics,brand d,58.34,104.14,43.98,45.8,mid Range,high margin
+P0662,brand b writer,apparel,brand d,158.12,284.9,44.5,126.77999999999997,mid Range,high margin
+P0663,brand b something,personal care,brand d,83.66,164.71,49.21,81.05000000000001,mid Range,high margin
+P0664,brand d look,electronics,brand a,109.09,191.74,43.11,82.65,mid Range,high margin
+P0665,brand a risk,home & kitchen,brand b,8.49,9.37,9.39,0.879999999999999,budget,low margin
+P0666,brand b congress,apparel,brand c,65.86,78.53,16.13,12.670000000000002,budget,medium margin
+P0667,brand c actually,apparel,brand a,165.65,226.67,26.92,61.01999999999998,mid Range,high margin
+P0668,brand c no,personal care,brand c,89.56,153.87,41.8,64.31,mid Range,high margin
+P0669,brand b personal,home & kitchen,brand d,75.05,95.28,21.23,20.230000000000004,budget,medium margin
+P0670,brand d modern,electronics,brand b,48.74,96.82,49.66,48.07999999999999,budget,high margin
+P0671,brand b good,electronics,brand b,29.02,50.49,42.52,21.470000000000002,budget,high margin
+P0672,brand a rich,personal care,brand c,155.39,258.08,39.79,102.69,mid Range,high margin
+P0673,brand a production,electronics,brand a,14.41,17.35,16.95,2.9400000000000013,budget,medium margin
+P0674,brand d bring,personal care,brand a,111.72,170.59,34.51,58.870000000000005,mid Range,high margin
+P0675,brand b happy,apparel,brand a,63.72,108.04,41.02,44.32000000000001,mid Range,high margin
+P0676,brand c realize,apparel,unknown,166.98,199.44,16.28,32.46000000000001,mid Range,medium margin
+P0677,brand a thus,home & kitchen,unknown,158.03,244.62,35.4,86.59,mid Range,high margin
+P0678,brand b leave,home & kitchen,brand b,74.79,109.85,31.92,35.05999999999999,mid Range,high margin
+P0679,brand b until,electronics,brand d,182.52,313.82,41.84,131.29999999999998,mid Range,high margin
+P0680,brand d letter,home & kitchen,brand b,5.53,9.43,41.36,3.8999999999999995,budget,high margin
+P0681,brand a truth,personal care,brand b,190.14,342.55,44.49,152.41000000000003,mid Range,high margin
+P0682,brand a let,electronics,brand c,130.65,197.42,33.82,66.76999999999998,mid Range,high margin
+P0683,brand c nation,home & kitchen,brand d,14.77,27.06,45.42,12.29,budget,high margin
+P0684,brand a hear,home & kitchen,brand c,161.31,222.84,27.61,61.53,mid Range,high margin
+P0685,brand a eat,electronics,brand a,6.89,8.44,18.36,1.5499999999999998,budget,medium margin
+P0686,brand b heart,home & kitchen,brand c,179.43,351.61,48.97,172.18,mid Range,high margin
+P0687,brand c man,electronics,brand c,163.92,207.29,20.92,43.370000000000005,mid Range,medium margin
+P0688,brand d key,personal care,brand d,58.01,83.95,30.9,25.940000000000005,budget,high margin
+P0689,brand d side,personal care,brand b,27.05,46.7,42.08,19.650000000000002,budget,high margin
+P0690,brand a laugh,apparel,brand a,86.13,140.54,38.71,54.41,mid Range,high margin
+P0691,brand d others,apparel,brand d,156.94,258.99,39.4,102.05000000000001,mid Range,high margin
+P0692,brand b because,personal care,unknown,27.02,39.72,31.97,12.7,budget,high margin
+P0693,brand a board,electronics,brand c,132.72,147.47,10.0,14.75,mid Range,low margin
+P0694,brand b write,home & kitchen,brand a,89.41,156.82,42.99,67.41,mid Range,high margin
+P0695,brand d charge,home & kitchen,brand d,33.99,62.67,45.76,28.68,budget,high margin
+P0696,brand a practice,electronics,brand b,103.59,157.7,34.31,54.109999999999985,mid Range,high margin
+P0697,brand d cell,apparel,brand a,151.53,210.41,27.98,58.879999999999995,mid Range,high margin
+P0698,brand c this,home & kitchen,brand a,103.85,165.69,37.32,61.84,mid Range,high margin
+P0699,brand d herself,personal care,brand b,20.37,30.55,33.32,10.18,budget,high margin
+P0700,brand d movement,electronics,brand d,92.18,111.25,17.14,19.069999999999993,mid Range,medium margin
+P0701,brand d money,electronics,brand a,83.67,94.74,11.68,11.069999999999993,budget,medium margin
+P0702,brand a rise,electronics,brand c,178.57,286.8,37.74,108.23000000000002,mid Range,high margin
+P0703,brand d lay,home & kitchen,brand c,165.94,304.49,45.5,138.55,mid Range,high margin
+P0704,brand d four,home & kitchen,brand d,144.75,206.55,29.92,61.80000000000001,mid Range,high margin
+P0705,brand d step,electronics,brand a,153.07,198.93,23.05,45.860000000000014,mid Range,medium margin
+P0706,brand c floor,home & kitchen,brand c,111.8,160.6,30.39,48.8,mid Range,high margin
+P0707,brand a training,electronics,brand b,101.02,185.84,45.64,84.82000000000001,mid Range,high margin
+P0708,brand d poor,electronics,brand c,124.12,157.48,21.18,33.359999999999985,mid Range,medium margin
+P0709,brand d through,apparel,brand d,165.79,210.81,21.36,45.02000000000001,mid Range,medium margin
+P0710,brand c next,electronics,brand d,14.07,23.5,40.13,9.43,budget,high margin
+P0711,brand a question,personal care,brand d,133.4,261.54,48.99,128.14000000000001,mid Range,high margin
+P0712,brand b interesting,personal care,brand a,108.42,124.0,12.56,15.579999999999998,mid Range,medium margin
+P0713,brand d begin,personal care,brand b,139.9,175.75,20.4,35.849999999999994,mid Range,medium margin
+P0714,brand b lot,electronics,brand d,133.22,219.22,39.23,86.0,mid Range,high margin
+P0715,brand c stage,personal care,brand d,196.0,377.17,48.03,181.17000000000002,mid Range,high margin
+P0716,brand b when,home & kitchen,brand d,192.9,380.68,49.33,187.78,mid Range,high margin
+P0717,brand d executive,apparel,brand b,85.49,147.9,42.2,62.41000000000001,mid Range,high margin
+P0718,brand c huge,home & kitchen,brand b,44.17,73.4,39.82,29.230000000000004,budget,high margin
+P0719,brand c figure,home & kitchen,brand b,196.36,330.88,40.66,134.51999999999998,mid Range,high margin
+P0720,brand b fill,home & kitchen,brand a,153.35,246.29,37.74,92.94,mid Range,high margin
+P0721,brand d plan,home & kitchen,brand d,162.62,255.39,36.32,92.76999999999998,mid Range,high margin
+P0722,brand a part,personal care,brand b,15.35,17.67,13.13,2.320000000000002,budget,medium margin
+P0723,brand c realize,apparel,brand c,138.26,170.31,18.82,32.05000000000001,mid Range,medium margin
+P0724,brand a theory,home & kitchen,brand b,151.95,171.56,11.43,19.610000000000014,mid Range,medium margin
+P0725,brand d executive,electronics,brand b,149.77,240.4,37.7,90.63,mid Range,high margin
+P0726,brand b station,home & kitchen,brand a,185.66,268.98,30.98,83.32000000000002,mid Range,high margin
+P0727,brand c across,electronics,unknown,150.02,192.44,22.04,42.41999999999999,mid Range,medium margin
+P0728,brand d program,apparel,brand c,152.25,242.37,37.18,90.12,mid Range,high margin
+P0729,brand b modern,apparel,brand c,92.52,183.66,49.62,91.14,mid Range,high margin
+P0730,brand a actually,apparel,brand b,148.34,179.11,17.18,30.77000000000001,mid Range,medium margin
+P0731,brand a ok,personal care,brand c,113.54,138.18,17.83,24.64,mid Range,medium margin
+P0732,brand c happen,electronics,brand c,95.93,186.46,48.55,90.53,mid Range,high margin
+P0733,brand a soon,apparel,brand c,121.39,218.05,44.33,96.66000000000001,mid Range,high margin
+P0734,brand c apply,personal care,brand c,19.21,33.37,42.43,14.159999999999997,budget,high margin
+P0735,brand b eat,apparel,brand a,158.32,196.86,19.58,38.54000000000002,mid Range,medium margin
+P0736,brand d participant,electronics,brand c,48.13,62.18,22.6,14.049999999999997,budget,medium margin
+P0737,brand c apply,home & kitchen,unknown,62.25,121.72,48.86,59.47,mid Range,high margin
+P0738,brand d market,electronics,brand a,135.44,203.31,33.38,67.87,mid Range,high margin
+P0739,brand b fine,electronics,brand c,79.37,144.18,44.95,64.81,mid Range,high margin
+P0740,brand a office,personal care,brand c,110.35,149.47,26.17,39.120000000000005,mid Range,high margin
+P0741,brand c maybe,personal care,brand d,13.55,25.86,47.6,12.309999999999999,budget,high margin
+P0742,brand b goal,home & kitchen,brand a,189.9,237.5,20.04,47.599999999999994,mid Range,medium margin
+P0743,brand a whatever,electronics,brand b,135.72,243.78,44.33,108.06,mid Range,high margin
+P0744,brand d church,electronics,brand b,109.86,190.33,42.28,80.47000000000001,mid Range,high margin
+P0745,brand d generation,electronics,brand b,9.63,16.81,42.71,7.179999999999998,budget,high margin
+P0746,brand a clear,electronics,brand a,15.58,28.27,44.89,12.69,budget,high margin
+P0747,brand a development,apparel,brand c,84.49,127.24,33.6,42.75,mid Range,high margin
+P0748,brand d traditional,personal care,brand c,8.29,14.14,41.37,5.850000000000001,budget,high margin
+P0749,brand a commercial,electronics,brand a,141.67,165.09,14.19,23.420000000000016,mid Range,medium margin
+P0750,brand a thus,home & kitchen,brand c,123.28,166.84,26.11,43.56,mid Range,high margin
+P0751,brand d receive,personal care,brand d,165.31,186.43,11.33,21.120000000000005,mid Range,medium margin
+P0752,brand b teacher,apparel,brand b,150.62,273.69,44.97,123.07,mid Range,high margin
+P0753,brand c dinner,apparel,brand c,137.07,263.55,47.99,126.48000000000002,mid Range,high margin
+P0754,brand c natural,electronics,brand b,29.03,32.06,9.45,3.030000000000001,budget,low margin
+P0755,brand d ago,electronics,brand c,45.96,81.22,43.41,35.26,budget,high margin
+P0756,brand c once,apparel,brand d,181.6,338.92,46.42,157.32000000000002,mid Range,high margin
+P0757,brand b plant,apparel,brand b,48.05,88.95,45.98,40.900000000000006,budget,high margin
+P0758,brand b film,electronics,brand b,135.84,218.78,37.91,82.94,mid Range,high margin
+P0759,brand a summer,personal care,brand a,61.68,71.59,13.84,9.910000000000004,budget,medium margin
+P0760,brand a create,apparel,brand d,190.55,270.85,29.65,80.30000000000001,mid Range,high margin
+P0761,brand b around,electronics,brand c,125.81,240.31,47.65,114.5,mid Range,high margin
+P0762,brand c opportunity,personal care,brand d,69.03,116.9,40.95,47.870000000000005,mid Range,high margin
+P0763,brand b suddenly,home & kitchen,brand c,191.94,240.27,20.11,48.33000000000001,mid Range,medium margin
+P0764,brand c friend,apparel,brand b,143.88,241.25,40.36,97.37,mid Range,high margin
+P0765,brand c blood,home & kitchen,unknown,137.52,192.31,28.49,54.78999999999999,mid Range,high margin
+P0766,brand d room,personal care,brand d,74.95,103.05,27.27,28.099999999999994,mid Range,high margin
+P0767,brand a market,apparel,brand a,169.15,316.79,46.61,147.64000000000001,mid Range,high margin
+P0768,brand b job,apparel,brand c,148.04,246.33,39.9,98.29000000000002,mid Range,high margin
+P0769,brand a specific,electronics,brand a,163.47,264.99,38.31,101.52000000000001,mid Range,high margin
+P0770,brand b piece,electronics,brand c,110.98,221.83,49.97,110.85000000000001,mid Range,high margin
+P0771,brand d impact,apparel,brand c,81.54,155.11,47.43,73.57000000000001,mid Range,high margin
+P0772,brand c fast,apparel,brand d,102.72,121.36,15.36,18.64,mid Range,medium margin
+P0773,brand c onto,electronics,brand b,170.36,311.06,45.23,140.7,mid Range,high margin
+P0774,brand b star,apparel,brand d,36.05,58.03,37.88,21.980000000000004,budget,high margin
+P0775,brand b far,personal care,brand c,12.88,22.99,43.98,10.109999999999998,budget,high margin
+P0776,brand b scientist,electronics,brand c,77.04,87.71,12.17,10.669999999999987,budget,medium margin
+P0777,brand b hair,home & kitchen,brand d,96.59,145.77,33.74,49.18000000000001,mid Range,high margin
+P0778,brand a news,electronics,brand c,25.13,49.55,49.28,24.419999999999998,budget,high margin
+P0779,brand c recently,home & kitchen,brand b,78.45,113.02,30.59,34.56999999999999,mid Range,high margin
+P0780,brand a two,home & kitchen,brand d,194.67,253.19,23.11,58.52000000000001,mid Range,medium margin
+P0781,brand d notice,home & kitchen,brand c,99.94,153.3,34.81,53.360000000000014,mid Range,high margin
+P0782,brand a north,apparel,brand d,37.29,43.61,14.49,6.32,budget,medium margin
+P0783,brand c thus,apparel,brand b,41.45,59.11,29.88,17.659999999999997,budget,high margin
+P0784,brand a player,apparel,brand d,163.18,285.28,42.8,122.09999999999997,mid Range,high margin
+P0785,brand d pressure,personal care,brand d,46.09,57.39,19.69,11.299999999999997,budget,medium margin
+P0786,brand d physical,electronics,brand b,13.41,21.67,38.12,8.260000000000002,budget,high margin
+P0787,brand b some,apparel,brand a,178.71,220.2,18.84,41.48999999999998,mid Range,medium margin
+P0788,brand b marriage,home & kitchen,brand b,105.74,154.9,31.74,49.16000000000001,mid Range,high margin
+P0789,brand a lot,home & kitchen,brand a,47.24,77.75,39.24,30.509999999999998,budget,high margin
+P0790,brand d coach,personal care,brand b,47.78,70.22,31.96,22.439999999999998,budget,high margin
+P0791,brand b key,apparel,brand c,37.71,64.75,41.76,27.04,budget,high margin
+P0792,brand d benefit,electronics,brand b,78.75,96.0,17.97,17.25,budget,medium margin
+P0793,brand a mission,apparel,brand d,166.17,273.34,39.21,107.16999999999999,mid Range,high margin
+P0794,brand b pm,personal care,brand a,176.16,278.03,36.64,101.86999999999998,mid Range,high margin
+P0795,brand a especially,electronics,brand d,133.58,255.38,47.69,121.79999999999998,mid Range,high margin
+P0796,brand a impact,personal care,brand d,77.22,87.96,12.21,10.739999999999995,budget,medium margin
+P0797,brand d fact,apparel,brand d,158.96,229.4,30.71,70.44,mid Range,high margin
+P0798,brand a establish,personal care,brand b,54.63,97.75,44.11,43.12,budget,high margin
+P0799,brand a bed,home & kitchen,brand d,55.27,61.07,9.5,5.799999999999997,budget,low margin
+P0800,brand a customer,electronics,brand a,78.13,100.39,22.17,22.260000000000005,premium,medium margin
+P0801,brand c laugh,personal care,brand c,25.78,38.24,32.58,12.46,budget,high margin
+P0802,brand c others,home & kitchen,brand d,115.11,190.01,39.42,74.89999999999999,mid Range,high margin
+P0803,brand d she,apparel,brand d,112.66,180.46,37.57,67.80000000000001,mid Range,high margin
+P0804,brand b theory,home & kitchen,brand d,54.49,74.98,27.33,20.490000000000002,budget,high margin
+P0805,brand c young,personal care,brand b,171.72,290.78,40.95,119.05999999999997,mid Range,high margin
+P0806,brand b way,personal care,brand b,24.55,38.24,35.8,13.690000000000001,budget,high margin
+P0807,brand c five,electronics,brand b,80.88,135.25,40.2,54.370000000000005,mid Range,high margin
+P0808,brand a since,apparel,brand d,185.54,276.8,32.97,91.26000000000002,mid Range,high margin
+P0809,brand a baby,home & kitchen,brand b,77.31,127.42,39.33,50.11,mid Range,high margin
+P0810,brand d similar,personal care,brand c,143.76,235.44,38.94,91.68,mid Range,high margin
+P0811,brand b window,personal care,brand d,7.09,13.23,46.41,6.140000000000001,budget,high margin
+P0812,brand c quite,apparel,brand a,157.87,246.2,35.88,88.32999999999998,mid Range,high margin
+P0813,brand b democratic,apparel,brand a,75.15,126.97,40.81,51.81999999999999,mid Range,high margin
+P0814,brand b own,electronics,brand c,157.04,222.65,29.47,65.61000000000001,mid Range,high margin
+P0815,brand d trip,personal care,brand b,105.96,186.83,43.29,80.87000000000002,mid Range,high margin
+P0816,brand a want,electronics,brand c,146.6,235.03,37.62,88.43,mid Range,high margin
+P0817,brand c hand,home & kitchen,brand c,49.13,96.63,49.16,47.49999999999999,budget,high margin
+P0818,brand d chair,personal care,brand a,55.92,82.0,31.8,26.08,budget,high margin
+P0819,brand a often,electronics,brand c,71.29,85.93,17.04,14.64,budget,medium margin
+P0820,brand c house,home & kitchen,unknown,193.38,310.73,37.77,117.35000000000002,mid Range,high margin
+P0821,brand b mouth,home & kitchen,brand d,137.91,262.98,47.56,125.07000000000002,mid Range,high margin
+P0822,brand a defense,personal care,brand a,55.27,79.83,30.77,24.559999999999995,budget,high margin
+P0823,brand b power,apparel,brand c,85.42,121.11,29.47,35.69,mid Range,high margin
+P0824,brand a one,home & kitchen,brand b,61.02,89.03,31.46,28.009999999999998,budget,high margin
+P0825,brand c subject,electronics,brand b,97.93,138.88,29.49,40.94999999999999,mid Range,high margin
+P0826,brand c rather,apparel,brand b,102.3,130.91,21.85,28.61,mid Range,medium margin
+P0827,brand b argue,home & kitchen,brand b,49.7,92.02,45.99,42.31999999999999,budget,high margin
+P0828,brand c kitchen,apparel,brand a,28.38,33.22,14.57,4.84,budget,medium margin
+P0829,brand d ability,electronics,brand a,170.36,244.31,30.27,73.94999999999999,mid Range,high margin
+P0830,brand c technology,personal care,brand c,100.71,200.01,49.65,99.3,mid Range,high margin
+P0831,brand c away,personal care,brand b,151.28,183.87,17.72,32.59,mid Range,medium margin
+P0832,brand d number,personal care,brand a,102.98,149.77,31.24,46.790000000000006,mid Range,high margin
+P0833,brand b guy,personal care,brand a,141.16,213.73,33.95,72.57,mid Range,high margin
+P0834,brand a perhaps,electronics,brand b,78.99,94.05,16.01,15.060000000000002,budget,medium margin
+P0835,brand c deep,home & kitchen,brand b,111.97,147.06,23.86,35.09,mid Range,medium margin
+P0836,brand d big,home & kitchen,brand c,40.86,60.54,32.51,19.68,budget,high margin
+P0837,brand d wear,home & kitchen,brand c,171.59,231.93,26.02,60.34,mid Range,high margin
+P0838,brand b yet,apparel,unknown,163.77,286.39,42.82,122.61999999999998,mid Range,high margin
+P0839,brand b strategy,personal care,brand d,43.23,78.68,45.06,35.45000000000001,budget,high margin
+P0840,brand b social,personal care,brand a,39.44,61.12,35.47,21.68,budget,high margin
+P0841,brand c of,personal care,brand c,53.94,101.01,46.6,47.07000000000001,mid Range,high margin
+P0842,brand a group,personal care,brand a,139.66,161.17,13.35,21.50999999999999,mid Range,medium margin
+P0843,brand c seat,personal care,brand a,92.72,129.92,28.63,37.19999999999999,mid Range,high margin
+P0844,brand c player,home & kitchen,brand c,72.11,106.04,32.0,33.93000000000001,mid Range,high margin
+P0845,brand c should,apparel,brand b,195.98,265.78,26.26,69.79999999999998,mid Range,high margin
+P0846,brand c own,personal care,brand d,178.48,257.54,30.7,79.06000000000003,mid Range,high margin
+P0847,brand c no,personal care,brand b,174.31,292.23,40.35,117.92000000000002,mid Range,high margin
+P0848,brand c process,personal care,brand d,170.54,198.54,14.1,28.0,mid Range,medium margin
+P0849,brand b nice,home & kitchen,unknown,66.13,111.61,40.75,45.480000000000004,mid Range,high margin
+P0850,brand c along,personal care,brand c,178.1,321.09,44.53,142.98999999999998,mid Range,high margin
+P0851,brand c away,personal care,brand d,37.63,70.32,46.49,32.68999999999999,budget,high margin
+P0852,brand b stay,apparel,brand c,188.39,326.03,42.22,137.64,mid Range,high margin
+P0853,brand a since,apparel,brand b,82.42,97.75,15.68,15.329999999999998,budget,medium margin
+P0854,brand d role,electronics,brand a,155.33,244.11,36.37,88.78,mid Range,high margin
+P0855,brand a miss,electronics,unknown,125.53,147.61,14.96,22.080000000000013,mid Range,medium margin
+P0856,brand d occur,home & kitchen,brand b,53.24,72.18,26.24,18.940000000000005,budget,high margin
+P0857,brand b soon,apparel,brand b,10.57,17.94,41.08,7.370000000000001,budget,high margin
+P0858,brand c east,personal care,brand d,195.12,309.56,36.97,114.44,mid Range,high margin
+P0859,brand c home,personal care,brand b,194.06,335.31,42.13,141.25,mid Range,high margin
+P0860,brand b shake,personal care,brand d,107.07,179.4,40.32,72.33000000000001,mid Range,high margin
+P0861,brand c buy,home & kitchen,brand d,110.24,201.1,45.18,90.86,mid Range,high margin
+P0862,brand d reveal,home & kitchen,brand c,85.38,105.88,19.36,20.5,mid Range,medium margin
+P0863,brand a although,electronics,brand b,72.06,109.7,34.31,37.64,mid Range,high margin
+P0864,brand a charge,personal care,brand d,63.42,113.48,44.11,50.06,mid Range,high margin
+P0865,brand c on,apparel,unknown,111.9,142.08,21.24,30.180000000000007,mid Range,medium margin
+P0866,brand d use,personal care,brand b,36.84,64.96,43.29,28.11999999999999,budget,high margin
+P0867,brand d seem,personal care,brand b,56.28,83.3,32.44,27.019999999999996,budget,high margin
+P0868,brand b need,home & kitchen,brand c,131.45,207.53,36.66,76.08000000000001,mid Range,high margin
+P0869,brand c onto,personal care,brand b,171.43,216.72,20.9,45.28999999999999,mid Range,medium margin
+P0870,brand c accept,electronics,brand d,125.46,168.73,25.64,43.269999999999996,mid Range,high margin
+P0871,brand d sort,apparel,brand c,8.78,10.05,12.64,1.2700000000000014,budget,medium margin
+P0872,brand a range,apparel,brand a,60.01,72.76,17.52,12.750000000000007,budget,medium margin
+P0873,brand d begin,electronics,brand b,22.59,25.15,10.18,2.5599999999999987,budget,medium margin
+P0874,brand b stop,home & kitchen,brand d,65.76,119.65,45.04,53.89,mid Range,high margin
+P0875,brand c worry,personal care,brand a,69.4,129.03,46.21,59.629999999999995,mid Range,high margin
+P0876,brand b budget,electronics,brand c,156.25,181.91,14.11,25.659999999999997,mid Range,medium margin
+P0877,brand d both,apparel,brand b,179.66,238.06,24.53,58.400000000000006,mid Range,medium margin
+P0878,brand d bed,electronics,brand a,195.05,340.01,42.63,144.95999999999998,mid Range,high margin
+P0879,brand d son,personal care,brand b,148.84,168.21,11.52,19.370000000000005,mid Range,medium margin
+P0880,brand d tv,electronics,brand b,97.2,166.53,41.63,69.33,mid Range,high margin
+P0881,brand c who,home & kitchen,brand b,127.69,145.31,12.13,17.620000000000005,mid Range,medium margin
+P0882,brand a worry,home & kitchen,brand d,129.51,165.62,21.8,36.110000000000014,mid Range,medium margin
+P0883,brand a peace,apparel,brand a,51.01,76.04,32.92,25.03000000000001,budget,high margin
+P0884,brand a management,apparel,brand c,119.02,173.32,31.33,54.3,mid Range,high margin
+P0885,brand b we,electronics,brand a,118.31,203.69,41.92,85.38,mid Range,high margin
+P0886,brand b her,home & kitchen,brand a,53.5,82.92,35.48,29.42,budget,high margin
+P0887,brand c determine,electronics,brand a,74.33,92.06,19.26,17.730000000000004,budget,medium margin
+P0888,brand a one,apparel,brand d,50.37,99.91,49.58,49.54,budget,high margin
+P0889,brand c executive,personal care,brand b,9.16,13.19,30.55,4.029999999999999,budget,high margin
+P0890,brand b in,home & kitchen,brand a,99.63,148.82,33.05,49.19,mid Range,high margin
+P0891,brand c between,personal care,brand b,115.51,183.58,37.08,68.07000000000001,mid Range,high margin
+P0892,brand c effort,personal care,brand c,174.19,285.46,38.98,111.26999999999998,mid Range,high margin
+P0893,brand b believe,electronics,unknown,92.63,170.21,45.58,77.58000000000001,mid Range,high margin
+P0894,brand c end,personal care,brand a,156.3,243.1,35.71,86.79999999999998,mid Range,high margin
+P0895,brand b mouth,electronics,brand c,156.32,205.55,23.95,49.23000000000002,mid Range,medium margin
+P0896,brand a matter,personal care,brand b,107.19,165.91,35.39,58.72,mid Range,high margin
+P0897,brand b history,home & kitchen,brand c,84.91,118.01,28.05,33.10000000000001,mid Range,high margin
+P0898,brand a mention,electronics,brand a,167.86,204.25,17.82,36.389999999999986,mid Range,medium margin
+P0899,brand a sure,apparel,brand a,99.65,118.47,15.89,18.819999999999993,mid Range,medium margin
+P0900,brand d material,personal care,brand c,14.57,18.92,22.99,4.350000000000001,budget,medium margin
+P0901,brand a program,electronics,brand b,132.87,257.18,48.34,124.31,mid Range,high margin
+P0902,brand a language,personal care,brand a,75.38,133.36,43.48,57.98000000000002,mid Range,high margin
+P0903,brand d degree,home & kitchen,brand a,165.61,221.79,25.33,56.17999999999998,mid Range,high margin
+P0904,brand a represent,electronics,brand c,20.2,26.15,22.75,5.949999999999999,budget,medium margin
+P0905,brand a movement,electronics,brand b,108.67,138.07,21.29,29.39999999999999,mid Range,medium margin
+P0906,brand b prevent,apparel,brand d,150.49,269.33,44.12,118.83999999999997,mid Range,high margin
+P0907,brand c into,personal care,brand d,177.15,221.46,20.01,44.31,mid Range,medium margin
+P0908,brand b everybody,personal care,brand c,133.22,210.56,36.73,77.34,mid Range,high margin
+P0909,brand d lawyer,home & kitchen,brand c,112.27,224.22,49.93,111.95,mid Range,high margin
+P0910,brand c police,personal care,brand d,166.1,231.06,28.11,64.96000000000001,mid Range,high margin
+P0911,brand b type,apparel,brand d,154.31,298.36,48.28,144.05,mid Range,high margin
+P0912,brand c name,home & kitchen,brand d,92.26,134.46,31.38,42.2,mid Range,high margin
+P0913,brand a group,home & kitchen,brand a,105.93,211.23,49.85,105.29999999999998,mid Range,high margin
+P0914,brand c skin,electronics,brand c,196.96,254.74,22.68,57.78,mid Range,medium margin
+P0915,brand c machine,electronics,brand c,184.23,287.43,35.9,103.20000000000002,mid Range,high margin
+P0916,brand b answer,electronics,brand a,94.77,117.56,19.39,22.790000000000006,mid Range,medium margin
+P0917,brand c ago,home & kitchen,brand b,50.43,92.29,45.36,41.86000000000001,budget,high margin
+P0918,brand a decision,personal care,brand b,148.18,259.5,42.9,111.32,mid Range,high margin
+P0919,brand d inside,apparel,brand d,166.01,285.64,41.88,119.63,mid Range,high margin
+P0920,brand a player,home & kitchen,brand a,147.5,238.75,38.22,91.25,mid Range,high margin
+P0921,brand a help,electronics,brand c,72.85,133.71,45.52,60.860000000000014,mid Range,high margin
+P0922,brand d himself,electronics,brand b,150.8,281.17,46.37,130.37,mid Range,high margin
+P0923,brand a a,personal care,brand a,64.43,73.26,12.05,8.829999999999998,budget,medium margin
+P0924,brand b measure,home & kitchen,brand b,34.87,59.5,41.39,24.630000000000003,budget,high margin
+P0925,brand d couple,personal care,brand a,48.31,65.74,26.51,17.429999999999993,budget,high margin
+P0926,brand d skill,apparel,brand b,70.55,107.82,34.57,37.269999999999996,mid Range,high margin
+P0927,brand a past,personal care,brand c,21.59,33.5,35.55,11.91,budget,high margin
+P0928,brand b present,apparel,brand d,114.06,175.55,35.03,61.49000000000001,mid Range,high margin
+P0929,brand b information,apparel,brand b,18.97,34.13,44.42,15.160000000000004,budget,high margin
+P0930,brand c other,electronics,brand a,135.99,201.43,32.49,65.44,mid Range,high margin
+P0931,brand c hot,apparel,brand c,72.18,121.97,40.82,49.78999999999999,mid Range,high margin
+P0932,brand c apply,apparel,brand c,125.16,249.21,49.78,124.05000000000001,mid Range,high margin
+P0933,brand d old,apparel,brand d,13.75,25.25,45.54,11.5,budget,high margin
+P0934,brand b personal,home & kitchen,brand b,152.76,285.28,46.45,132.51999999999998,mid Range,high margin
+P0935,brand a my,electronics,brand b,190.04,367.55,48.3,177.51000000000002,mid Range,high margin
+P0936,brand c baby,electronics,brand c,140.29,168.37,16.68,28.080000000000013,mid Range,medium margin
+P0937,brand d catch,personal care,brand a,69.72,123.13,43.38,53.41,mid Range,high margin
+P0938,brand b worry,apparel,brand c,112.02,186.04,39.79,74.02,mid Range,high margin
+P0939,brand b listen,electronics,brand d,118.69,201.44,41.08,82.75,mid Range,high margin
+P0940,brand a past,home & kitchen,brand b,16.72,21.41,21.91,4.690000000000001,budget,medium margin
+P0941,brand c cut,electronics,brand d,132.68,146.94,9.7,14.259999999999991,mid Range,low margin
+P0942,brand d similar,home & kitchen,brand c,173.54,193.87,10.49,20.330000000000013,mid Range,medium margin
+P0943,brand d because,apparel,brand d,104.17,181.12,42.49,76.95,mid Range,high margin
+P0944,brand c development,personal care,brand a,41.35,64.12,35.51,22.770000000000003,budget,high margin
+P0945,brand d far,electronics,brand a,53.24,83.93,36.57,30.690000000000005,budget,high margin
+P0946,brand c often,personal care,brand d,150.16,167.66,10.44,17.5,mid Range,medium margin
+P0947,brand c international,home & kitchen,brand c,51.06,101.12,49.51,50.06,mid Range,high margin
+P0948,brand c sister,electronics,brand c,176.34,335.29,47.41,158.95000000000002,mid Range,high margin
+P0949,brand a fall,home & kitchen,brand b,34.58,65.96,47.57,31.379999999999995,budget,high margin
+P0950,brand b also,electronics,unknown,106.54,182.2,41.53,75.65999999999998,mid Range,high margin
+P0951,brand b space,personal care,brand b,116.72,173.19,32.61,56.47,mid Range,high margin
+P0952,brand c her,home & kitchen,brand d,110.74,142.42,22.24,31.679999999999993,mid Range,medium margin
+P0953,brand b tax,apparel,brand b,65.25,113.18,42.35,47.93000000000001,mid Range,high margin
+P0954,brand b hotel,personal care,brand b,132.97,213.86,37.82,80.89000000000001,mid Range,high margin
+P0955,brand b power,home & kitchen,brand a,113.68,222.1,48.82,108.41999999999999,mid Range,high margin
+P0956,brand a beat,apparel,brand c,168.71,207.68,18.76,38.97,mid Range,medium margin
+P0957,brand a sense,home & kitchen,brand d,192.43,264.21,27.17,71.77999999999997,mid Range,high margin
+P0958,brand c it,apparel,brand b,25.82,32.7,21.04,6.880000000000003,budget,medium margin
+P0959,brand c figure,apparel,brand b,50.03,56.21,10.99,6.18,budget,medium margin
+P0960,brand a whatever,personal care,brand b,102.95,169.27,39.18,66.32000000000001,mid Range,high margin
+P0961,brand c research,apparel,brand d,100.83,123.39,18.28,22.560000000000002,mid Range,medium margin
+P0962,brand b image,apparel,brand a,84.67,166.96,49.29,82.29,mid Range,high margin
+P0963,brand c ability,personal care,brand b,149.76,297.94,49.73,148.18,mid Range,high margin
+P0964,brand b board,electronics,brand b,185.79,369.18,49.67,183.39000000000001,mid Range,high margin
+P0965,brand d produce,home & kitchen,brand d,178.08,264.41,32.65,86.33000000000001,mid Range,high margin
+P0966,brand a nature,personal care,brand c,81.86,159.24,48.59,77.38000000000001,mid Range,high margin
+P0967,brand a it,electronics,brand d,94.1,177.85,47.09,83.75,mid Range,high margin
+P0968,brand b long,personal care,brand a,113.75,177.96,36.08,64.21000000000001,mid Range,high margin
+P0969,brand a team,apparel,brand c,90.71,171.98,47.26,81.27,mid Range,high margin
+P0970,brand c woman,personal care,brand b,87.38,144.34,39.46,56.96000000000001,mid Range,high margin
+P0971,brand a enjoy,apparel,brand d,166.83,251.33,33.62,84.5,mid Range,high margin
+P0972,brand a only,apparel,brand b,81.65,113.58,28.11,31.929999999999993,mid Range,high margin
+P0973,brand a water,apparel,brand d,120.11,209.16,42.58,89.05,mid Range,high margin
+P0974,brand b or,personal care,unknown,53.77,92.62,41.95,38.85,budget,high margin
+P0975,brand b mission,electronics,brand a,27.26,41.01,33.53,13.749999999999996,budget,high margin
+P0976,brand c face,electronics,brand d,146.74,290.2,49.43,143.45999999999998,mid Range,high margin
+P0977,brand b sometimes,personal care,brand d,13.56,17.0,20.24,3.4399999999999995,budget,medium margin
+P0978,brand c ability,apparel,brand b,174.42,219.94,20.7,45.52000000000001,mid Range,medium margin
+P0979,brand a order,personal care,brand c,65.36,117.11,44.19,51.75,mid Range,high margin
+P0980,brand d set,home & kitchen,brand b,27.92,34.02,17.93,6.100000000000001,budget,medium margin
+P0981,brand b four,electronics,brand c,7.38,11.42,35.38,4.04,budget,high margin
+P0982,brand d visit,electronics,brand d,51.39,83.76,38.65,32.370000000000005,budget,high margin
+P0983,brand d garden,personal care,brand d,91.17,149.62,39.07,58.45,mid Range,high margin
+P0984,brand a cover,apparel,brand c,125.85,201.59,37.57,75.74000000000001,mid Range,high margin
+P0985,brand b play,electronics,brand b,33.91,57.24,40.76,23.330000000000005,budget,high margin
+P0986,brand a film,apparel,brand a,135.06,250.43,46.07,115.37,mid Range,high margin
+P0987,brand c author,home & kitchen,brand a,14.56,21.48,32.22,6.92,budget,high margin
+P0988,brand b walk,apparel,unknown,124.16,213.85,41.94,89.69,mid Range,high margin
+P0989,brand b eat,personal care,brand c,186.64,220.95,15.53,34.31,mid Range,medium margin
+P0990,brand c apply,home & kitchen,brand c,180.02,330.92,45.6,150.9,mid Range,high margin
+P0991,brand d stand,electronics,brand c,96.81,117.12,17.34,20.310000000000002,mid Range,medium margin
+P0992,brand c pressure,home & kitchen,brand d,107.31,185.24,42.07,77.93,mid Range,high margin
+P0993,brand a morning,electronics,brand a,99.31,170.79,41.85,71.47999999999999,mid Range,high margin
+P0994,brand c bag,personal care,brand c,55.63,89.99,38.18,34.35999999999999,budget,high margin
+P0995,brand c base,apparel,brand d,106.34,177.45,40.07,71.10999999999999,mid Range,high margin
+P0996,brand d care,apparel,brand b,143.17,283.67,49.53,140.50000000000003,mid Range,high margin
+P0997,brand a dream,electronics,brand a,95.65,173.8,44.97,78.15,mid Range,high margin
+P0998,brand b stuff,personal care,brand d,13.87,19.62,29.31,5.750000000000002,budget,high margin
+P0999,brand b public,electronics,brand b,139.55,185.46,24.75,45.91,mid Range,medium margin
+P1000,brand a bed,home & kitchen,brand c,103.8,144.44,28.14,40.64,mid Range,high margin
+P1001,brand a present,electronics,unknown,71.57,125.39,42.92,53.82000000000001,mid Range,high margin
+P1002,brand a lot,apparel,brand b,69.45,97.52,28.78,28.069999999999993,budget,high margin
+P1003,brand d floor,personal care,brand a,130.9,200.71,34.78,69.81,mid Range,high margin
+P1004,brand d bill,home & kitchen,brand d,157.88,232.49,32.09,74.61000000000001,mid Range,high margin
+P1005,brand a arm,home & kitchen,brand c,113.26,126.49,10.46,13.22999999999999,mid Range,medium margin
+P1006,brand c role,home & kitchen,brand a,194.07,262.46,26.06,68.38999999999999,mid Range,high margin
+P1007,brand a few,home & kitchen,brand d,127.17,236.3,46.18,109.13000000000001,mid Range,high margin
+P1008,brand d smile,apparel,brand a,173.6,308.38,43.71,134.78,mid Range,high margin
+P1009,brand c then,electronics,brand c,85.7,132.61,35.37,46.91000000000001,mid Range,high margin
+P1010,brand b future,home & kitchen,brand d,166.74,228.83,27.13,62.09,mid Range,high margin
+P1011,brand c receive,apparel,brand a,77.97,88.39,11.79,10.420000000000002,budget,medium margin
+P1012,brand b up,electronics,brand d,103.67,188.59,45.03,84.92,mid Range,high margin
+P1013,brand b wide,apparel,brand c,185.11,325.64,43.16,140.52999999999997,mid Range,high margin
+P1014,brand c still,home & kitchen,brand b,155.05,184.27,15.86,29.22,mid Range,medium margin
+P1015,brand b southern,apparel,brand a,94.58,164.79,42.61,70.21,mid Range,high margin
+P1016,brand a watch,electronics,brand c,186.81,321.0,41.8,134.19,mid Range,high margin
+P1017,brand a election,home & kitchen,brand d,178.39,212.78,16.16,34.390000000000015,mid Range,medium margin
+P1018,brand c participant,electronics,brand c,129.58,167.01,22.41,37.42999999999998,mid Range,medium margin
+P1019,brand b try,apparel,brand c,58.95,81.78,27.92,22.83,budget,high margin
+P1020,brand d oil,electronics,brand c,34.12,45.93,25.71,11.810000000000002,budget,high margin
+P1021,brand a see,electronics,brand b,110.79,176.65,37.28,65.86,mid Range,high margin
+P1022,brand c much,apparel,brand c,116.95,146.67,20.26,29.719999999999985,mid Range,medium margin
+P1023,brand c magazine,home & kitchen,brand d,14.89,16.77,11.21,1.879999999999999,budget,medium margin
+P1024,brand a none,electronics,brand d,15.49,22.98,32.59,7.49,budget,high margin
+P1025,brand b recent,personal care,brand c,65.93,121.03,45.53,55.099999999999994,mid Range,high margin
+P1026,brand a network,personal care,brand b,23.12,42.13,45.12,19.01,budget,high margin
+P1027,brand d source,electronics,brand d,65.53,110.09,40.48,44.56,mid Range,high margin
+P1028,brand d tree,personal care,brand b,189.75,233.27,18.66,43.52000000000001,mid Range,medium margin
+P1029,brand c energy,home & kitchen,brand d,40.75,78.47,48.07,37.72,budget,high margin
+P1030,brand c important,home & kitchen,brand d,100.06,115.95,13.7,15.89,mid Range,medium margin
+P1031,brand a seek,home & kitchen,brand d,94.94,119.03,20.24,24.090000000000003,mid Range,medium margin
+P1032,brand c travel,apparel,brand a,84.11,146.59,42.62,62.480000000000004,mid Range,high margin
+P1033,brand a life,home & kitchen,brand a,159.52,251.96,36.69,92.44,mid Range,high margin
+P1034,brand d left,personal care,brand b,126.07,200.85,37.23,74.78,mid Range,high margin
+P1035,brand d several,personal care,brand a,71.44,130.92,45.43,59.47999999999999,mid Range,high margin
+P1036,brand d knowledge,personal care,brand c,111.18,145.93,23.81,34.75,mid Range,medium margin
+P1037,brand a try,personal care,brand a,120.47,182.71,34.06,62.24000000000001,mid Range,high margin
+P1038,brand a store,personal care,brand b,65.07,95.34,31.75,30.27000000000001,budget,high margin
+P1039,brand a owner,personal care,brand c,101.39,171.77,40.97,70.38000000000001,mid Range,high margin
+P1040,brand a series,apparel,brand b,178.02,340.54,47.72,162.52,mid Range,high margin
+P1041,brand a gas,apparel,brand b,93.33,127.15,26.6,33.82000000000001,mid Range,high margin
+P1042,brand d economic,apparel,brand b,137.9,190.98,27.79,53.079999999999984,mid Range,high margin
+P1043,brand c apply,personal care,brand c,198.11,321.82,38.44,123.70999999999998,mid Range,high margin
+P1044,brand d relationship,apparel,brand c,17.17,32.81,47.67,15.64,budget,high margin
+P1045,brand a best,electronics,brand c,26.39,35.73,26.14,9.339999999999996,budget,high margin
+P1046,brand a back,apparel,brand d,141.93,206.49,31.27,64.56,mid Range,high margin
+P1047,brand c mission,personal care,brand d,79.41,126.31,37.13,46.900000000000006,mid Range,high margin
+P1048,brand b almost,personal care,brand b,41.7,60.3,30.85,18.599999999999994,budget,high margin
+P1049,brand c practice,personal care,brand b,61.25,115.48,46.96,54.230000000000004,mid Range,high margin
+P1050,brand b director,apparel,brand a,18.99,21.16,10.26,2.1700000000000017,budget,medium margin
+P1051,brand d between,personal care,brand b,21.51,36.09,40.4,14.580000000000002,budget,high margin
+P1052,brand d goal,personal care,brand d,126.53,190.93,33.73,64.4,mid Range,high margin
+P1053,brand d environment,personal care,brand d,74.28,94.13,21.09,19.849999999999994,budget,medium margin
+P1054,brand a box,personal care,brand b,143.87,193.12,25.5,49.25,mid Range,high margin
+P1055,brand c red,electronics,brand a,115.79,200.83,42.34,85.04,mid Range,high margin
+P1056,brand a consumer,personal care,brand a,32.71,57.51,43.12,24.799999999999997,budget,high margin
+P1057,brand c particularly,personal care,brand a,107.05,176.53,39.36,69.48,mid Range,high margin
+P1058,brand b letter,personal care,brand a,138.39,219.39,36.92,81.0,mid Range,high margin
+P1059,brand c my,electronics,brand c,109.33,121.32,9.88,11.989999999999995,mid Range,low margin
+P1060,brand d force,personal care,brand c,87.1,171.11,49.1,84.01000000000002,mid Range,high margin
+P1061,brand c rate,home & kitchen,brand b,11.89,22.95,48.19,11.059999999999999,budget,high margin
+P1062,brand c new,home & kitchen,brand a,127.71,206.93,38.28,79.22000000000001,mid Range,high margin
+P1063,brand a game,home & kitchen,brand a,60.93,71.55,14.84,10.619999999999997,budget,medium margin
+P1064,brand a after,home & kitchen,brand c,30.85,41.74,26.09,10.89,budget,high margin
+P1065,brand c seem,electronics,unknown,122.75,235.57,47.89,112.82,mid Range,high margin
+P1066,brand b human,personal care,brand c,162.53,217.0,25.1,54.47,mid Range,high margin
+P1067,brand b move,personal care,brand b,160.88,301.78,46.69,140.89999999999998,mid Range,high margin
+P1068,brand c throughout,electronics,brand b,121.13,222.82,45.64,101.69,mid Range,high margin
+P1069,brand d and,personal care,brand d,51.4,76.9,33.16,25.500000000000007,budget,high margin
+P1070,brand b gas,apparel,brand c,15.59,20.86,25.26,5.27,budget,high margin
+P1071,brand a across,electronics,brand b,95.48,145.95,34.58,50.469999999999985,mid Range,high margin
+P1072,brand d pay,apparel,brand d,138.28,200.65,31.08,62.370000000000005,mid Range,high margin
+P1073,brand c not,apparel,brand d,7.31,14.14,48.3,6.830000000000001,budget,high margin
+P1074,brand d contain,personal care,brand c,192.54,330.13,41.68,137.59,mid Range,high margin
+P1075,brand a those,electronics,brand c,191.46,285.01,32.82,93.54999999999998,mid Range,high margin
+P1076,brand c enjoy,home & kitchen,brand c,57.08,67.84,15.86,10.760000000000005,budget,medium margin
+P1077,brand d affect,personal care,brand b,148.19,241.53,38.65,93.34,mid Range,high margin
+P1078,brand b recognize,home & kitchen,brand b,66.09,73.33,9.87,7.239999999999995,budget,low margin
+P1079,brand a new,electronics,brand a,85.19,133.98,36.42,48.78999999999999,mid Range,high margin
+P1080,brand d american,home & kitchen,brand b,146.42,194.26,24.63,47.84,mid Range,medium margin
+P1081,brand a compare,electronics,brand a,16.09,26.3,38.82,10.21,budget,high margin
+P1082,brand b financial,electronics,brand a,21.85,35.93,39.19,14.079999999999998,budget,high margin
+P1083,brand d part,apparel,brand a,140.65,186.78,24.7,46.129999999999995,mid Range,medium margin
+P1084,brand d man,electronics,brand d,184.93,249.42,25.86,64.48999999999998,mid Range,high margin
+P1085,brand d media,home & kitchen,brand c,36.58,42.67,14.27,6.090000000000003,budget,medium margin
+P1086,brand a language,personal care,brand d,69.87,80.63,13.34,10.759999999999991,budget,medium margin
+P1087,brand c drive,apparel,brand d,18.53,36.72,49.54,18.189999999999998,budget,high margin
+P1088,brand b back,personal care,brand b,130.87,156.73,16.5,25.859999999999985,mid Range,medium margin
+P1089,brand d song,apparel,brand a,182.96,319.06,42.66,136.1,mid Range,high margin
+P1090,brand a this,electronics,brand a,18.73,32.87,43.02,14.139999999999997,budget,high margin
+P1091,brand d not,electronics,brand d,34.03,57.04,40.34,23.009999999999998,budget,high margin
+P1092,brand a himself,personal care,brand c,34.56,48.28,28.42,13.719999999999999,budget,high margin
+P1093,brand d hand,electronics,brand d,98.24,143.78,31.67,45.540000000000006,mid Range,high margin
+P1094,brand a vote,apparel,brand a,79.96,137.56,41.87,57.60000000000001,mid Range,high margin
+P1095,brand d concern,electronics,brand c,70.02,96.11,27.15,26.090000000000003,budget,high margin
+P1096,brand a here,electronics,brand c,109.25,214.66,49.11,105.41,mid Range,high margin
+P1097,brand a executive,personal care,brand c,131.32,165.33,20.57,34.01000000000002,mid Range,medium margin
+P1098,brand a support,personal care,brand b,63.28,91.83,31.09,28.549999999999997,budget,high margin
+P1099,brand a when,home & kitchen,brand d,21.55,35.98,40.11,14.429999999999996,budget,high margin
+P1100,brand b standard,apparel,brand a,42.65,74.54,42.78,31.890000000000008,budget,high margin
+P1101,brand b term,personal care,brand d,17.28,27.41,36.96,10.129999999999999,budget,high margin
+P1102,brand c up,personal care,brand d,193.48,215.69,10.3,22.210000000000008,mid Range,medium margin
+P1103,brand c major,electronics,brand c,158.62,180.59,12.17,21.97,mid Range,medium margin
+P1104,brand a reason,apparel,brand d,188.32,354.64,46.9,166.32,mid Range,high margin
+P1105,brand b important,apparel,brand a,12.19,14.96,18.52,2.7700000000000014,budget,medium margin
+P1106,brand a interest,personal care,brand a,52.32,88.1,40.61,35.779999999999994,budget,high margin
+P1107,brand a too,apparel,brand a,181.41,333.55,45.61,152.14000000000001,mid Range,high margin
+P1108,brand a send,personal care,unknown,167.89,194.34,13.61,26.450000000000017,mid Range,medium margin
+P1109,brand a detail,electronics,brand d,121.02,200.18,39.54,79.16000000000001,mid Range,high margin
+P1110,brand a trip,apparel,brand d,70.78,131.11,46.01,60.33000000000001,mid Range,high margin
+P1111,brand d magazine,home & kitchen,brand a,195.29,316.05,38.21,120.76000000000002,mid Range,high margin
+P1112,brand b outside,home & kitchen,brand b,154.02,251.63,38.79,97.60999999999999,mid Range,high margin
+P1113,brand c usually,electronics,brand a,58.41,104.07,43.87,45.66,mid Range,high margin
+P1114,brand b strong,home & kitchen,brand b,90.54,175.02,48.27,84.48,mid Range,high margin
+P1115,brand a become,apparel,unknown,159.26,265.8,40.08,106.54000000000002,mid Range,high margin
+P1116,brand d hard,apparel,brand a,176.53,207.01,14.72,30.47999999999999,mid Range,medium margin
+P1117,brand a until,apparel,brand a,142.81,233.4,38.81,90.59,mid Range,high margin
+P1118,brand c total,personal care,brand d,140.01,179.99,22.21,39.98000000000002,mid Range,medium margin
+P1119,brand c street,personal care,brand d,51.65,64.93,20.45,13.280000000000008,budget,medium margin
+P1120,brand a city,apparel,unknown,124.35,146.64,15.2,22.289999999999992,mid Range,medium margin
+P1121,brand c wife,home & kitchen,brand d,5.89,7.73,23.8,1.8400000000000007,budget,medium margin
+P1122,brand a push,electronics,brand c,173.23,344.4,49.7,171.17,mid Range,high margin
+P1123,brand b choice,personal care,brand b,58.9,75.06,21.53,16.160000000000004,budget,medium margin
+P1124,brand b road,personal care,brand d,39.38,67.07,41.29,27.68999999999999,budget,high margin
+P1125,brand a box,electronics,brand c,60.59,90.35,32.94,29.75999999999999,budget,high margin
+P1126,brand c paper,personal care,brand a,25.36,29.09,12.82,3.7300000000000004,budget,medium margin
+P1127,brand b daughter,apparel,brand a,99.59,119.95,16.97,20.36,mid Range,medium margin
+P1128,brand b simply,personal care,brand c,86.72,153.7,43.58,66.97999999999999,mid Range,high margin
+P1129,brand c they,apparel,brand a,68.6,81.51,15.84,12.91000000000001,budget,medium margin
+P1130,brand d experience,apparel,brand d,178.82,208.54,14.25,29.72,mid Range,medium margin
+P1131,brand d represent,electronics,brand d,33.26,64.36,48.32,31.1,budget,high margin
+P1132,brand d open,apparel,brand d,77.83,117.68,33.86,39.85000000000001,mid Range,high margin
+P1133,brand b care,home & kitchen,brand c,44.43,53.96,17.66,9.530000000000001,budget,medium margin
+P1134,brand a goal,home & kitchen,brand b,26.67,40.51,34.16,13.839999999999996,budget,high margin
+P1135,brand d call,apparel,unknown,47.87,65.37,26.77,17.500000000000007,budget,high margin
+P1136,brand b parent,apparel,brand b,21.86,40.91,46.57,19.049999999999997,budget,high margin
+P1137,brand d region,apparel,brand d,168.21,227.29,25.99,59.079999999999984,mid Range,high margin
+P1138,brand d any,apparel,brand b,68.82,111.59,38.33,42.77000000000001,mid Range,high margin
+P1139,brand b condition,electronics,brand d,196.14,222.83,11.98,26.690000000000026,mid Range,medium margin
+P1140,brand d research,electronics,brand d,108.57,166.26,34.7,57.69,mid Range,high margin
+P1141,brand a cut,personal care,brand d,51.9,83.18,37.61,31.28000000000001,budget,high margin
+P1142,brand a language,personal care,brand b,30.88,42.19,26.81,11.309999999999999,budget,high margin
+P1143,brand a black,electronics,brand d,135.46,168.73,19.72,33.26999999999998,mid Range,medium margin
+P1144,brand d enough,electronics,brand d,95.43,116.88,18.35,21.44999999999999,mid Range,medium margin
+P1145,brand d likely,apparel,brand c,127.23,220.55,42.31,93.32000000000001,mid Range,high margin
+P1146,brand a road,electronics,brand d,179.22,250.84,28.55,71.62,mid Range,high margin
+P1147,brand a stop,home & kitchen,brand d,151.81,262.37,42.14,110.56,mid Range,high margin
+P1148,brand b low,electronics,brand c,148.47,170.64,12.99,22.169999999999987,mid Range,medium margin
+P1149,brand c let,electronics,brand a,79.68,121.02,34.16,41.33999999999999,mid Range,high margin
+P1150,brand a stand,home & kitchen,brand c,39.18,62.8,37.61,23.619999999999997,budget,high margin
+P1151,brand a radio,apparel,brand b,196.34,258.14,23.94,61.79999999999998,mid Range,medium margin
+P1152,brand a several,personal care,brand b,151.87,271.06,43.97,119.19,mid Range,high margin
+P1153,brand c air,home & kitchen,brand c,103.2,152.8,32.46,49.60000000000001,mid Range,high margin
+P1154,brand a song,electronics,brand c,72.32,111.2,34.96,38.88000000000001,mid Range,high margin
+P1155,brand a my,personal care,brand c,93.14,133.31,30.13,40.17,mid Range,high margin
+P1156,brand a probably,apparel,brand d,22.03,31.98,31.11,9.95,budget,high margin
+P1157,brand b than,home & kitchen,brand a,26.33,35.5,25.83,9.170000000000002,budget,high margin
+P1158,brand b yet,personal care,brand b,175.62,275.48,36.25,99.86000000000001,mid Range,high margin
+P1159,brand a open,home & kitchen,brand d,194.07,308.05,37.0,113.98000000000002,mid Range,high margin
+P1160,brand b yes,personal care,brand c,86.93,153.34,43.31,66.41,mid Range,high margin
+P1161,brand a cost,home & kitchen,brand b,17.28,32.57,46.95,15.29,budget,high margin
+P1162,brand b put,home & kitchen,brand d,117.85,199.19,40.84,81.34,mid Range,high margin
+P1163,brand c sport,personal care,brand d,94.31,151.89,37.91,57.579999999999984,mid Range,high margin
+P1164,brand c already,apparel,brand c,49.22,70.62,30.3,21.400000000000006,budget,high margin
+P1165,brand c surface,electronics,brand b,73.86,111.55,33.79,37.69,mid Range,high margin
+P1166,brand b not,apparel,brand c,40.54,50.99,20.49,10.450000000000003,budget,medium margin
+P1167,brand b least,apparel,brand b,27.8,55.44,49.86,27.639999999999997,budget,high margin
+P1168,brand b series,personal care,brand c,77.09,99.03,22.15,21.939999999999998,budget,medium margin
+P1169,brand a phone,home & kitchen,brand c,33.85,50.9,33.5,17.049999999999997,budget,high margin
+P1170,brand b science,home & kitchen,brand a,184.48,270.1,31.7,85.62000000000003,mid Range,high margin
+P1171,brand d tax,apparel,brand d,185.92,230.62,19.38,44.70000000000002,mid Range,medium margin
+P1172,brand c break,home & kitchen,unknown,179.72,354.52,49.31,174.79999999999998,mid Range,high margin
+P1173,brand b each,personal care,brand c,139.38,245.1,43.13,105.72,mid Range,high margin
+P1174,brand a road,apparel,brand a,65.08,95.11,31.57,30.03,budget,high margin
+P1175,brand b him,personal care,brand c,23.03,26.47,13.0,3.4399999999999977,budget,medium margin
+P1176,brand b young,apparel,brand c,43.16,50.72,14.91,7.560000000000002,budget,medium margin
+P1177,brand d together,electronics,brand d,42.92,59.49,27.85,16.57,budget,high margin
+P1178,brand a record,home & kitchen,unknown,33.85,63.25,46.48,29.4,budget,high margin
+P1179,brand c movement,personal care,brand c,7.38,10.41,29.11,3.0300000000000002,budget,high margin
+P1180,brand c agency,personal care,brand a,47.06,89.37,47.34,42.31,budget,high margin
+P1181,brand d certain,personal care,brand c,36.94,64.84,43.03,27.900000000000006,budget,high margin
+P1182,brand d measure,personal care,brand b,167.92,275.08,38.96,107.16,mid Range,high margin
+P1183,brand b analysis,apparel,brand c,97.55,183.47,46.83,85.92,mid Range,high margin
+P1184,brand c pressure,electronics,brand d,22.25,32.67,31.89,10.420000000000002,budget,high margin
+P1185,brand c hold,personal care,brand b,113.38,197.19,42.5,83.81,mid Range,high margin
+P1186,brand b activity,apparel,brand b,167.3,227.61,26.5,60.31,mid Range,high margin
+P1187,brand d from,electronics,brand c,167.74,230.39,27.19,62.64999999999998,mid Range,high margin
+P1188,brand d before,apparel,brand a,159.29,197.3,19.27,38.01000000000002,mid Range,medium margin
+P1189,brand c cost,personal care,brand a,132.49,252.18,47.46,119.69,mid Range,high margin
+P1190,brand d no,apparel,brand d,181.82,305.51,40.49,123.69,mid Range,high margin
+P1191,brand a ability,electronics,brand c,101.14,199.61,49.33,98.47000000000001,mid Range,high margin
+P1192,brand c tend,personal care,brand d,174.33,290.29,39.95,115.96000000000001,mid Range,high margin
+P1193,brand d tax,electronics,brand c,104.94,169.77,38.19,64.83000000000001,mid Range,high margin
+P1194,brand c something,apparel,brand a,33.5,50.75,33.99,17.25,budget,high margin
+P1195,brand b challenge,home & kitchen,brand b,15.31,21.82,29.84,6.51,budget,high margin
+P1196,brand c better,electronics,brand c,61.87,103.64,40.3,41.77,mid Range,high margin
+P1197,brand a own,apparel,brand b,154.11,252.57,38.98,98.45999999999998,mid Range,high margin
+P1198,brand b your,home & kitchen,brand c,166.23,285.33,41.74,119.1,mid Range,high margin
+P1199,brand c door,home & kitchen,brand c,23.69,38.43,38.36,14.739999999999998,budget,high margin
